@@ -1,91 +1,117 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jan Hoersch's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jan Hoersch
+IT Security Consultant, Penetration Tester
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://nv1t.github.io"><i class="fas fa-home"></i> nv1t.github.io</a> - 
+  <a href="https://keybase.io/nv1t"><i class="fas fa-users"></i> keybase.io/nv1t</a> -
+  <a href="https://github.com/nv1t"><i class="fab fa-github"></i> nv1t</a> - 
+  <a href="https://twitter.com/nv1t"><i class="fab fa-twitter"></i> @nv1t</a>
 </div>
 
+## Career Profile
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+I'm an IT Security Consultant & Penetration Tester with 6 years of professional experience. With at least basic knowledge in a wide variety of IT Security topics, my major focus is on penetration testing and reverse engineering. I'm highly motivated to learn new tricks, widen my knowledge and get to know other work environments.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017`
+**OSCE**, *Offensive Security*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015`
+**MASPT**, *eLearnSecurity*
 
-- Sizar
+`2014`
+**OSCP**, *Offensive Security*
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2011-2013`
+**IT Specialist for System Integration**
 
-- Fellow
+## Experience
+
+`2018-present`
+**Lead Security Consultant**, *Context Information Security Ltd.*
+
+Penetrationtests (Web-Applications, Infrastructure, Mobile, Cloud, Code Review) for various customers (FinTec, Chemical Industries, Banking, Automotive), internal tool development
 
 
+`2014-2018`
+**IT Security Consultant**, *Securai GmbH*
 
-## Awards
+Performing penetration tests and reverse engineering tasks on mobile application, web applications and rich clients in various programming languages.
 
-`2012`
-President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+`2011-2014`
+**Network & Security Engineer**, *TMT GmbH & Co. KG*
+
+During 2.5 years as a trainee as a network engineer, i managed several tasks, mainly system programming, server monitoring as well as internal software audits based on network environment and web applications.
+
+
+`2011`
+**Founder**, *Kouponki*
+
+During the 5-Euro-Business competition i founded with 4 fellow students the Kouponki GbR. With a lot of engagement we managed to win the comptetion with this start-up company.
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<a href="https://nv1t.github.io/blog/i-hate-you-wd"><i class="fas fa-book"></i> **I hate you, WD**</a>, *blog.nv1t.me*
 
-### Journals
+Recovering a failing HDD by swapping the bios chips on a PCB and disabling the re-location list for faster transfer speed.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+<a href="https://www.securai.de/veroeffentlichungen/blog/iot-pentest-der-weg-von-der-firmware-zur-shell/"><i class="fas fa-book"></i> **IoT Pentest - Der Weg von der Firmware zur Shell**</a>, *Securai Blog*
 
-`1669`
-Lectiones opticæ.
+Demonstrating an IoT attack path from downloading firmware to remote code execution on the device.
 
-etc. etc. etc.
+<a href="https://www.securai.de/veroeffentlichungen/blog/binary-patching-java/"><i class="fas fa-book"></i> **Binary Patching von Java fuer Rich-Client Penetrationtests**</a>, *Securai Blog*
 
-### Patents
+Patching Java Rich-Clients to circumvent checks during security assessments.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+<a href="https://nv1t.github.io/blog/sql-injection-after-order-by"><i class="fas fa-book"></i> **SQLi after order by in less than 22 chars**</a>, *blog.nv1t.me*
+
+Solving a SQLi challenge by using the order by feature and known content.
+
+<a href="https://www.youtube.com/watch?v=Fy0Wcp_hNFg"><i class="fab fa-youtube"></i> **IoT Security Nightmares - 20 minutes, 10 devices**</a>, *Kaspersky Security Analyst Summit, 2017*
+
+Talk about easy exploitation of IoT devices and current state of responsible disclosure due to bad communication with vendors.
+
+<a href="https://media.ccc.de/v/MRMCD15-6986-i_like_trains"><i class="fab fa-youtube"></i> **I like trains**</a>, *MRMCD 2015*
+
+Accessing undocumented APIs from big companies is fun. Especially if you get loads of data to store and analyze from them.
+
+<a href="https://media.ccc.de/v/29c3-5285-de-en-men_who_stare_at_bits_h264"><i class="fab fa-youtube"></i> **Men who stare at bits (Part 2)**</a>, *29th Chaos Communication Congress*
+
+Reverse Engineering of multiple RFID payment systems from different universities. Most of these systems were based on Mifare Classic Cards with custom encryption on the card.
+
+<a href="https://media.ccc.de/v/saal_mp7_og_-_2012-05-19_21_15_-_men_who_stare_at_bits_-_nuit_-_murx_-_64"><i class="fab fa-youtube"></i> **Men who stare at bits**</a>, *Sigint12* 
+
+Reverse Engineering of one RFID payment system with custom encryption of the credit sector of the card.
+
+<a href="https://nv1t.github.io/blog/douding-document-sharing-network"><i class="fas fa-book"></i> **Douding Document Sharing**</a>, *blog.nv1t.me*
+
+Reverse Engineering of the Douding Document Sharing Network Reader
 
 
-## Occupation
+## Projects
 
-`1600`
-__Royal Mint__, London
+<a href="https://github.com/nv1t/standing-desk-interceptor"><i class="fab fa-github"></i> **Standing Desk Interceptor**</a> - Reverse Engineering my standing desk to create more functionality. It consists of two UART Communication channels and a custom protocol running between two Microcontrollers.
 
-- Warden
-- Minted coins
+<a href="https://github.com/makujaho/trainspotter"><i class="fab fa-github"></i> **iliketrains**</a> - Accessing undocumented APIs from big companies is fun. Especially if you get loads of data to store and analyze from them. (See publication for talk on this project)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+<a href="https://nv1t.github.io/blog/freeing-elmo"><i class="fab fa-github"></i> **FreeElmo**</a> - Reverse Engineering an Elmo Document Camera and writing MultiOS Client.
 
 
+## Personal
+Birth date: 28. July 1988
 
-<!-- ### Footer
+Citizenship: German
 
-Last updated: May 2013 -->
+Residence: Dresden, Germany
+
+<br/>Last updated: August 2020
 
 

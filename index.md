@@ -6,18 +6,17 @@ title: Yogi Kortisa's CV
 Penetration Tester, Web Security Researcher
 
 <div id="webaddress">
-  <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> - 
-  <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> -
+  <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> 
+  <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> 
   <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> 0895-2381-5871</a> -
-  <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i> yogikortisa</a> - 
-  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-linkedin"></i> yogikortisa</a>
+  <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i></a>
+  <a href="https://www.linkedin.com/in/yogikortisa/"><i class="fab fa-linkedin"></i></a>
+  <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i></a>
 </div>
 
 ## Summary
 
-I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past four years. I talk about security topics as a keynote speaker & educator since 2013, provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration. 
-
-Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities on various global companies and organizations such as by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past four years. I talk about security topics as a keynote speaker & educator since 2013, provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration. Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities on various global companies and organizations such as by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 ## Core Competencies
 Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Zap Proxy, Burp Suite, GNU/Linux System Administration, Nmap, Wireshark, Metasploit, Database Administration, PHP, Bash, Social Engineering, OSINT, Advanced Reconnaissance, Asset Discovery, Coaching & Mentoring
@@ -34,7 +33,7 @@ Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Z
 <i class="fas fa-certificate"></i> **Certified Secure Computer User (CSCU)**, *EC-Council*
 
 `2013-2017`
-<i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**, *State Polytechnic of Batam
+<i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**, *State Polytechnic of Batam*
 
 ## Experience
 
@@ -51,8 +50,7 @@ Cybersecurity consultancy, infosec awareness program, and employee training. Per
 `2020-present`
 **Freelance IT Consultant**, *projects.co.id*
 
-Performing penetration tests and reverse engineering tasks on mobile application, web applications and rich clients for various customers.
-
+Part time IT consultant in my spare time for help others and fun. 
 
 `2013-present`
 **Cybersecurity Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
@@ -136,7 +134,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 <a href="https://github.com/yogikortisa/pentesting-reports"><i class="fab fa-github"></i> **pentesting-reports**</a> - Some of the fun-testing reports that I have done, used by my lecturer as a module on Network Security subject in college.
 
-<a href="https://github.com/yogikortisa/pentesting-reports">**Open Source & CTF Competition (OSC)**</a> - The first and largest Open Source & CTF competition held in Batam every year. 
+<a href="https://www.instagram.com/p/BM_WlDVBSZG/?utm_source=ig_web_copy_link">**Open Source & CTF Competition (OSC)**</a> - The first and largest Open Source & CTF competition held in Batam every year. 
 
 <a href="https://belajar.linux.or.id/2016/04/24/foss-day-2016-digelar-meriah-oleh-batam-linux-user-group-blug/"> **Free Open Source Software (FOSS) Day**</a> - The first and largest annual celebration, exhibition, public education effort with the aim of increasing awareness of Free & Open Source Software (FOSS) and its virtues, and encouraging its use. 
 
@@ -154,8 +152,11 @@ How I accidentally found my PII leaked on the internet caused by security issues
 `2021`
 <a href="https://chat.whatsapp.com/EiKuW3mUn2JGHSGpooLpYU">**Batam Developer Programmer (DevPro)**</a>, *Initiator - Local group of Batam developer & programmer for sharing & learning together.*
 
+`2015-2016`
+<a href="https://www.instagram.com/p/9fESiNlkn3/">**CTF Category - Open Source Competition (OSC)**</a>, *Lead Judge - Build the CTF infrastructure, rules, point system, and judging all teams.*
+
 `2013-2015`
 <a href="https://batamlinux.or.id/">**Batam Linux User Group (BLUG)**</a>, *Leader - The largest GNU/Linux user community in Batam with regular sharing & learning activites.*
 
-`2021`
+`2010`
 <a href="https://batamcrew.forumotion.com/">**Batam Crew**</a>, *Founder & Community Builder - Batam underground hacking forum discuss all about computer, hacking, phreaking, and more.*

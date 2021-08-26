@@ -3,123 +3,160 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Penetration Tester
+Penetration Tester, Web Security Researcher
 
 <div id="webaddress">
   <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> - 
-  <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i> hackerotodidak.com</a> -
+  <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> -
+  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> 0895-2381-5871</a> -
   <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i> yogikortisa</a> - 
-  <a href="mailto:yogi@hackerotodidak.com"><i class="fab fa-envelope"></i> yogi@hackerotodidak.com</a>
+  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-linkedin"></i> yogikortisa</a> -
+  <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i> hackerotodidak.com</a>
 </div>
 
-## Career Profile
+## Summary
 
-I'm an IT Security Consultant & Penetration Tester with 10 years experience in IT Security and 6 years of professional experience in IT Security Consulting targeting various companies in FinTec, Chemical Industries, Banking, Automotive Industry. With at least basic knowledge in a wide variety of IT Security topics, my major focus is on penetration testing and reverse engineering of various devices. I'm highly motivated to learn new tricks, broaden my knowledge getting to know other work environments.
+I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past four years. I talk about security topics as a keynote speaker & educator since 2013, provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration. 
+
+Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities on various global companies and organizations such as by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 ## Core Competencies
-Burp Suite, CANAPE, IDA Pro, CobaltStrike, Metasploit, Immunity, Wireshark, Linux/Unix Administration, Security Monitoring, Hardware Hacking (SPI, JTAG, etc.), Docker, Python, Bash, Social Engineering, Lockpicking (pending)
+Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Zap Proxy, Burp Suite, GNU/Linux System Administration, Nmap, Wireshark, Metasploit, Database Administration, PHP, Bash, Social Engineering, OSINT, Advanced Reconnaissance, Asset Discovery, Coaching & Mentoring
 
-## Education
+## Education & Certification
 
-`2017`
-**OSCE**, *Offensive Security*
+`2020`
+<i class="fas fa-certificate"></i> **Certified Ethical Hacker (CEH) Practical**, *EC-Council*
 
-`2015`
-**MASPT**, *eLearnSecurity*
+`2020`
+<i class="fas fa-certificate"></i> **eLearnSecurity Junior Penetration Tester (eJPT)**, *eLearnSecurity*
 
-`2014`
-**OSCP**, *Offensive Security*
+`2020`
+<i class="fas fa-certificate"></i> **Certified Secure Computer User (CSCU)**, *EC-Council*
 
-`2011-2013`
-**IT Specialist for System Integration**
+`2013-2017`
+<i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**, *State Polytechnic of Batam
 
 ## Experience
 
+`2019-present`
+**Web Developer & Security Researcher**, *BIFZA - Batam Indonesia Free Zone Authority*
+
+Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale up software and application at BIFZA. Build Application Security (AppSec) Program, Secure-Software Development Lifecycle (S-SDLC) standard, recon & assets monitoring, and penetration testing on particular applications.
+
 `2021-present`
-**Senior Security Consultant**, *SSE - Secure Systems Engineering GmbH*
+**Founder, Mentor, Pen-tester**, *hackerotodidak.com*
 
-Penetrationtests (Web-Applications, Infrastructure, Mobile, Cloud, Code Review), scenario based tests and Redteams for various customers (FinTec, Chemical Industries, Banking, Automotive), internal tool development
+Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests and red teaming as cybersecurity solution for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.
 
-`2018-2021`
-**Lead Security Consultant**, *Context Information Security Ltd.*
-
-Penetrationtests (Web-Applications, Infrastructure, Mobile, Cloud, Code Review), scenario based tests and Redteams for various customers (FinTec, Chemical Industries, Banking, Automotive), internal tool development
-
-
-`2014-2018`
-**IT Security Consultant**, *Securai GmbH*
+`2020-present`
+**Freelance IT Consultant**, *projects.co.id*
 
 Performing penetration tests and reverse engineering tasks on mobile application, web applications and rich clients for various customers.
 
 
-`2011-2014`
-**Network & Security Engineer**, *TMT GmbH & Co. KG*
+`2013-present`
+**Cybersecurity Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
 
-During 2.5 years as a trainee as a network engineer, i managed several tasks, mainly system programming, server monitoring as well as internal software audits based on network environment and web applications.
+Provide a private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at Local Police Department, State Polytechnic of Batam, IT communities, Vocational High Schools, etc. 
 
+`2021-present`
+**Web Security Researcher**, *hackerone.com, other VDPs*
 
-`2011`
-**Founder**, *Kouponki*
+Web security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities and recognized by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
-During the 5-Euro-Business competition i founded with 4 fellow students the Kouponki GbR. With a lot of engagement we managed to win the comptetion with this start-up company.
+`2017-2019`
+**Full-stack Developer & Lead Software Engineer**, *PT Indonesia Villajaya*
 
+Lead and manage a team of programmers, coach and guide the development of the team members, share knowledge, motivate and inspire others to generate new ideas, estimate time to accomplish programming tasks and commit to meeting all objectives. Build customized Enterprise Resource Planning (ERP) system, Point of Sales (POS), recruitment online, and other web-based application systems, system integration, API, etc. Monitoring and maintaining for existing applications in entire branch offices as well as observe for any potential improvements.
 
 
 ## Publications
 
-<a href="https://nv1t.github.io/blog/i-hate-you-wd"><i class="fas fa-book"></i> **I hate you, WD**</a>, *blog.nv1t.me*
+<a href="https://repository.polibatam.ac.id/view?id=2525"><i class="fas fa-book"></i> **SQL Injection Detection Using Code Review & Penetration Testing**</a>, *Academic Journal*
 
-Recovering a failing HDD by swapping the bios chips on a PCB and disabling the re-location list for faster transfer speed.
+This study aims to test the effectiveness of the methods Code Review and Penetration Testing in detecting SQL injection security holes in the web application.
 
-<a href="https://www.securai.de/veroeffentlichungen/blog/iot-pentest-der-weg-von-der-firmware-zur-shell/"><i class="fas fa-book"></i> **IoT Pentest - Der Weg von der Firmware zur Shell**</a>, *Securai Blog*
+<a href="https://hackerotodidak.com/multiple-vulnerabilities-found-at-surabaya-go-id/"><i class="fas fa-book"></i> **Multiple Vulnerabilities Found at surabaya.go.id**</a>, *Hackerotodidak Blog*
 
-Demonstrating an IoT attack path from downloading firmware to remote code execution on the device.
+I described the process of how I found multiple vulnerabilities on a government site.
 
-<a href="https://www.securai.de/veroeffentlichungen/blog/binary-patching-java/"><i class="fas fa-book"></i> **Binary Patching von Java fuer Rich-Client Penetrationtests**</a>, *Securai Blog*
+<a href="https://hackerotodidak.com/data-breached-lagi-5-399-data-pribadi-cpns-pemko-batam-tahun-2018-bocor/"><i class="fas fa-book"></i> **Data Breached: 5.399 Data Pribadi CPNS Pemko Batam 2018 Bocor!**</a>, *Hackerotodidak Blog*
 
-Patching Java Rich-Clients to circumvent checks during security assessments.
+How I accidentally found my PII leaked on the internet caused by security issues on a government site.
 
-<a href="https://nv1t.github.io/blog/sql-injection-after-order-by"><i class="fas fa-book"></i> **SQLi after order by in less than 22 chars**</a>, *blog.nv1t.me*
 
-Solving a SQLi challenge by using the order by feature and known content.
+## Talks
 
-<a href="https://www.youtube.com/watch?v=Fy0Wcp_hNFg"><i class="fab fa-youtube"></i> **IoT Security Nightmares - 20 minutes, 10 devices**</a>, *Kaspersky Security Analyst Summit, 2017*
+`2021`
+<a href="https://bit.ly/TechoTalk">**Keamanan Digital Online Shop dan Maraknya Penjualan Data Pribadi**</a>, *Panelist - TechoTalk Cyber Charity*
 
-Talk about easy exploitation of IoT devices and current state of responsible disclosure due to bad communication with vendors.
+`2021`
+<a href="https://s.id/hackerotodidak-bootcamp/">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp (edu.hackerotodidak.com)*
 
-<a href="https://media.ccc.de/v/MRMCD15-6986-i_like_trains"><i class="fab fa-youtube"></i> **I like trains**</a>, *MRMCD 2015*
+`2021`
+<a href="https://instagram.com/batamitsecurity/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juaga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
 
-Accessing undocumented APIs from big companies is fun. Especially if you get loads of data to store and analyze from them.
+`2020`
+<a href="https://instagram.com/akademiberbagi/">**Turn Back Cybercrime Through Open-Source Intelligence (OSINT)**</a>, *Keynote Speaker - Akber Berbagi Nasional (akademiberbagi.org)*
 
-<a href="https://media.ccc.de/v/29c3-5285-de-en-men_who_stare_at_bits_h264"><i class="fab fa-youtube"></i> **Men who stare at bits (Part 2)**</a>, *29th Chaos Communication Congress*
+`2020`
+<a href="https://bit.ly/3pXVyDj/">**Hack Yourself Before Others Do! Introduction to Offensive Cybersecurity**</a>, *Keynote Speaker - Rainusa & Surabaya Hacker Link Event*
 
-Reverse Engineering of multiple RFID payment systems from different universities. Most of these systems were based on Mifare Classic Cards with custom encryption on the card.
+`2020`
+<a href="https://www.instagram.com/p/B_eOSGBFlfa/?utm_source=ig_web_copy_link">**Belajar Linux? Apa Ada Untungnya?"**</a>, *Keynote Speaker - Belajar & Berbagi (B&B) Batam Linux User Group (BLUG)*
 
-<a href="https://media.ccc.de/v/saal_mp7_og_-_2012-05-19_21_15_-_men_who_stare_at_bits_-_nuit_-_murx_-_64"><i class="fab fa-youtube"></i> **Men who stare at bits**</a>, *Sigint12* 
+`2018`
+<a href="https://kepri.polri.go.id/">**Cybersecurity Awareness Pada Pelaksanaan Pemilu 2019**</a>, *Keynote Speaker - Local Police Department (POLDA Batam)*
 
-Reverse Engineering of one RFID payment system with custom encryption of the credit sector of the card.
+`2018`
+<a href="https://www.instagram.com/p/BpWzkX0hrZM/?utm_source=ig_web_copy_link">**Free Open Source Software (FOSS) Day 2018: "Community Meet Up"**</a>, *Moderator - Batam Linux User Group (BLUG)*
 
-<a href="https://nv1t.github.io/blog/douding-document-sharing-network"><i class="fas fa-book"></i> **Douding Document Sharing**</a>, *blog.nv1t.me*
+`2015-2016`
+<a href="https://www.instagram.com/p/9tZepAlkkE/?utm_source=ig_web_copy_link">**Practical Ethical Hacking with Kali Linux**</a>, *Trainer - Open Source Competition (OSC) CTF Category*
 
-Reverse Engineering of the Douding Document Sharing Network Reader
+`2015`
+<a href="https://www.instagram.com/p/9l_-lhlkrv/?utm_source=ig_web_copy_link">**Web Development Fundamental Workshop**</a>, *Trainer - Batam Linux User Group (BLUG)*
+
+`2015`
+<a href="http://www.lpm-paradigma.org/2015/03/demo-linux-dan-foss-day.html">**GNU/Linux & Open Source Fundamental**</a>, *Keynote Speaker - Free Open Source Software (FOSS) Day*
+
+`2015`
+<a href="http://batamlinux.blogspot.com/2014/11/blug-goes-to-school-2014-edisi-smk-real.html">**Networking with GNU/Linux**</a>, *Mentor - SMK Real Informatika*
+
+`2013-2017`
+<a href="https://www.instagram.com/p/BE3tci9lkn7/?utm_source=ig_web_copy_link">**Networking Security Training**</a>, *Trainer - Batam Linux User Group (BLUG)*
+
 
 
 ## Projects
 
-<a href="https://github.com/nv1t/standing-desk-interceptor"><i class="fab fa-github"></i> **Standing Desk Interceptor**</a> - Reverse Engineering my standing desk to create more functionality. It consists of two UART Communication channels and a custom protocol running between two Microcontrollers.
+<a href="https://edu.hackerotodidak.com/"><i class="fas fa-graduation-cap"></i> **Hackducation (edu.hackerotodidak.com)**</a> - Cyber Education 4.0 - Learning platform to become an Ethical Hacker by autodidact way.
 
-<a href="https://github.com/makujaho/trainspotter"><i class="fab fa-github"></i> **iliketrains**</a> - Accessing undocumented APIs from big companies is fun. Especially if you get loads of data to store and analyze from them. (See publication for talk on this project)
+<a href="https://github.com/yogikortisa/instagram-scraper-2020"><i class="fab fa-github"></i> **instagram-scraper-2020**</a> - Grab feeds of any instagram account with this instagram scraper 2020. You can customize and upgrade this potential script to show the video urls, tags, and more.
 
-<a href="https://nv1t.github.io/blog/freeing-elmo"><i class="fab fa-github"></i> **FreeElmo**</a> - Reverse Engineering an Elmo Document Camera and writing MultiOS Client.
+<a href="https://github.com/yogikortisa/pentesting-reports"><i class="fab fa-github"></i> **pentesting-reports**</a> - Some of the fun-testing reports that I have done, used by my lecturer as a module on Network Security subject in college.
 
+<a href="https://github.com/yogikortisa/pentesting-reports">**Open Source & CTF Competition (OSC)**</a> - The first and largest Open Source & CTF competition held in Batam every year. 
 
-## Personal
-Birth date: 28. July 1988
+<a href="https://belajar.linux.or.id/2016/04/24/foss-day-2016-digelar-meriah-oleh-batam-linux-user-group-blug/"> **Free Open Source Software (FOSS) Day**</a> - The first and largest annual celebration, exhibition, public education effort with the aim of increasing awareness of Free & Open Source Software (FOSS) and its virtues, and encouraging its use. 
 
-Citizenship: German
+<a href="https://bpbatam.go.id"> **Application Security (AppSec) Testing Program at BIFZA**</a> - Build AppSec security testing program and integrate into software development process.
 
-Residence: Dresden, Germany
-
-<br/>Last updated: May 2021
+<a href="https://scutogadingserpong.com/"> **Vulnerability Assessment & Penetration Testing (VAPT) on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment & Penetration Testing (VAPT) on web application. 
 
 
+
+## Volunteerism
+
+`2019-present`
+<a href="https://www.instagram.com/batamitsecurity/">**Batam IT Security (BITS)**</a>, *Founder & Community Builder - The largest cybersecurity community in Batam for sharing and learning, seminar/workshop/training info, code & coffee meetup.*
+
+`2021`
+<a href="https://chat.whatsapp.com/EiKuW3mUn2JGHSGpooLpYU">**Batam Developer Programmer (DevPro)**</a>, *Initiator - Local group of Batam developer & programmer for sharing & learning together.*
+
+`2013-2015`
+<a href="https://batamlinux.or.id/">**Batam Linux User Group (BLUG)**</a>, *Leader - The largest GNU/Linux user community in Batam with regular sharing & learning activites.*
+
+`2021`
+<a href="https://batamcrew.forumotion.com/">**Batam Crew**</a>, *Founder & Community Builder - Batam underground hacking forum discuss all about computer, hacking, phreaking, and more.*

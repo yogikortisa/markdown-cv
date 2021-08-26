@@ -10,8 +10,7 @@ Penetration Tester, Web Security Researcher
   <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> -
   <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> 0895-2381-5871</a> -
   <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i> yogikortisa</a> - 
-  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-linkedin"></i> yogikortisa</a> -
-  <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i> hackerotodidak.com</a>
+  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-linkedin"></i> yogikortisa</a>
 </div>
 
 ## Summary

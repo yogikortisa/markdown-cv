@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Jan Hoersch's CV
+title: Yogi Kortisa's CV
 ---
-# Jan Hoersch
-IT Security Consultant, Penetration Tester
+# Yogi Kortisa
+Penetration Tester
 
 <div id="webaddress">
   <a href="https://nv1t.github.io"><i class="fas fa-home"></i> nv1t.github.io</a> - 
   <a href="https://keybase.io/nv1t"><i class="fas fa-users"></i> keybase.io/nv1t</a> -
-  <a href="https://github.com/nv1t"><i class="fab fa-github"></i> nv1t</a> - 
-  <a href="https://twitter.com/nv1t"><i class="fab fa-twitter"></i> @nv1t</a>
+  <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i> yogikortisa</a> - 
+  <a href="mailto:yogi@hackerotodidak.com"><i class="fab fa-email"></i> @nv1t</a>
 </div>
 
 ## Career Profile

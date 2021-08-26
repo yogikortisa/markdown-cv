@@ -38,7 +38,7 @@ Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Z
 <a href="https://www.polibatam.ac.id/d4-multimedia-dan-jaringan/"><i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**</a>, *State Polytechnic of Batam*
 
 
-## Experience
+## Experiences
 
 `2019-present`
 **Web Developer & Security Researcher**, *BIFZA - Batam Indonesia Free Zone Authority*

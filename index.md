@@ -18,7 +18,7 @@ Penetration Tester, Web Security Researcher
 
 I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past four years. I talk about security topics as a keynote speaker & educator since 2013, provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
 <br>
-Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities on various global companies and organizations such as by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities on various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 ## Core Competencies
 Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Zap Proxy, Burp Suite, GNU/Linux System Administration, Nmap, Wireshark, Metasploit, Database Administration, PHP, Bash, Social Engineering, OSINT, Advanced Reconnaissance, Asset Discovery, Coaching & Mentoring
@@ -37,6 +37,7 @@ Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Z
 `2013-2017`
 <a href="https://www.polibatam.ac.id/d4-multimedia-dan-jaringan/"><i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**</a>, *State Polytechnic of Batam*
 
+
 ## Experience
 
 `2019-present`
@@ -47,7 +48,12 @@ Observe, synthesize, theorize, explore, design, develop, test, implement, improv
 `2021-present`
 **Founder, Mentor, Pen-tester**, *hackerotodidak.com*
 
-Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests and red teaming as cybersecurity solution for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.
+Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests and red teaming as cybersecurity solution for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.  
+<br>
+`2021-present`
+**Independent Security Researcher**, *hackerone.com, others*
+
+Security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities and recognized by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 `2020-present`
 **Freelance IT Consultant**, *projects.co.id*
@@ -57,12 +63,7 @@ Part time IT consultant in my spare time for help others and fun.
 `2013-present`
 **Cybersecurity Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
 
-Provide a private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at Local Police Department, State Polytechnic of Batam, IT communities, Vocational High Schools, etc. 
-
-`2021-present`
-**Web Security Researcher**, *hackerone.com, other VDPs*
-
-Web security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities and recognized by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more. 
 
 `2017-2019`
 **Full-stack Developer & Lead Software Engineer**, *PT Indonesia Villajaya*
@@ -161,4 +162,4 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://batamlinux.or.id/">**Batam Linux User Group (BLUG)**</a>, *Leader - The largest GNU/Linux user community in Batam with regular sharing & learning activites.*
 
 `2010`
-<a href="https://batamcrew.forumotion.com/">**Batam Crew**</a>, *Founder & Community Builder - Batam underground hacking forum discuss all about computer, hacking, phreaking, and more.*
+<a href="https://batamcrew.forumotion.com/">**Batam Crew**</a>, *Founder & Community Builder - Batam underground forum discuss about hacking, phreaking, and more.*

@@ -6,10 +6,10 @@ title: Yogi Kortisa's CV
 Penetration Tester
 
 <div id="webaddress">
-  <a href="https://nv1t.github.io"><i class="fas fa-home"></i> nv1t.github.io</a> - 
-  <a href="https://keybase.io/nv1t"><i class="fas fa-users"></i> keybase.io/nv1t</a> -
+  <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> - 
+  <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i> hackerotodidak.com</a> -
   <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i> yogikortisa</a> - 
-  <a href="mailto:yogi@hackerotodidak.com"><i class="fab fa-email"></i> @nv1t</a>
+  <a href="mailto:yogi@hackerotodidak.com"><i class="fab fa-envelope"></i> yogi@hackerotodidak.com</a>
 </div>
 
 ## Career Profile

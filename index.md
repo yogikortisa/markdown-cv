@@ -16,7 +16,9 @@ Penetration Tester, Web Security Researcher
 
 ## Summary
 
-I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past four years. I talk about security topics as a keynote speaker & educator since 2013, provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration. Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities on various global companies and organizations such as by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past four years. I talk about security topics as a keynote speaker & educator since 2013, provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
+<br>
+Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities on various global companies and organizations such as by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 ## Core Competencies
 Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Zap Proxy, Burp Suite, GNU/Linux System Administration, Nmap, Wireshark, Metasploit, Database Administration, PHP, Bash, Social Engineering, OSINT, Advanced Reconnaissance, Asset Discovery, Coaching & Mentoring
@@ -24,16 +26,16 @@ Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Z
 ## Education & Certification
 
 `2020`
-<i class="fas fa-certificate"></i> **Certified Ethical Hacker (CEH) Practical**, *EC-Council*
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=s9kZuS7yOE41g5ZAOjDW1qUO0SYS5GWO8FHkpNyNARg="><i class="fas fa-certificate"></i> **Certified Ethical Hacker (CEH) Practical**</a>, *EC-Council*
 
 `2020`
-<i class="fas fa-certificate"></i> **eLearnSecurity Junior Penetration Tester (eJPT)**, *eLearnSecurity*
+<a href="https://verified.elearnsecurity.com/certificates/df3c292e-0a9d-4045-a9b9-d6638be041a1"><i class="fas fa-certificate"></i> **eLearnSecurity Junior Penetration Tester (eJPT)**</a>, *eLearnSecurity*
 
 `2020`
-<i class="fas fa-certificate"></i> **Certified Secure Computer User (CSCU)**, *EC-Council*
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=aPUcRLCpq6lZ+ln02klVdD38moYqKFtd3bu4V0bV1gg="><i class="fas fa-certificate"></i> **Certified Secure Computer User (CSCU)**</a>, *EC-Council*
 
 `2013-2017`
-<i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**, *State Polytechnic of Batam*
+<a href="https://www.polibatam.ac.id/d4-multimedia-dan-jaringan/"><i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**</a>, *State Polytechnic of Batam*
 
 ## Experience
 

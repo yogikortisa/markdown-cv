@@ -92,13 +92,13 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://bit.ly/TechoTalk">**Keamanan Digital Online Shop dan Maraknya Penjualan Data Pribadi**</a>, *Panelist - TechoTalk Cyber Charity*
 
 `2021`
-<a href="https://s.id/hackerotodidak-bootcamp/">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp (edu.hackerotodidak.com)*
+<a href="https://youtu.be/uoWv2IO7eD0">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp (edu.hackerotodidak.com)*
 
 `2021`
 <a href="https://instagram.com/batamitsecurity/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juaga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
 
 `2020`
-<a href="https://instagram.com/akademiberbagi/">**Turn Back Cybercrime Through Open-Source Intelligence (OSINT)**</a>, *Keynote Speaker - Akber Berbagi Nasional (akademiberbagi.org)*
+<a href="https://youtu.be/IOyZloS3buU">**Turn Back Cybercrime Through Open-Source Intelligence (OSINT)**</a>, *Keynote Speaker - Akademi Berbagi Nasional (akademiberbagi.org)*
 
 `2020`
 <a href="https://bit.ly/3pXVyDj/">**Hack Yourself Before Others Do! Introduction to Offensive Cybersecurity**</a>, *Keynote Speaker - Rainusa & Surabaya Hacker Link Event*
@@ -125,7 +125,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="http://batamlinux.blogspot.com/2014/11/blug-goes-to-school-2014-edisi-smk-real.html">**Networking with GNU/Linux**</a>, *Mentor - SMK Real Informatika*
 
 `2013-2017`
-<a href="https://www.instagram.com/p/BE3tci9lkn7/?utm_source=ig_web_copy_link">**Networking Security Training**</a>, *Trainer - Batam Linux User Group (BLUG)*
+<a href="https://www.instagram.com/p/BE3tci9lkn7/?utm_source=ig_web_copy_link">**Network Security Training**</a>, *Trainer - Batam Linux User Group (BLUG)*
 
 
 
@@ -160,6 +160,15 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 `2013-2015`
 <a href="https://batamlinux.or.id/">**Batam Linux User Group (BLUG)**</a>, *Leader - The largest GNU/Linux user community in Batam with regular sharing & learning activites.*
+
+`2015`
+<a href="https://batamlinux.or.id/">**Street Workout Batam**</a>, *Founder / Coach / Trainer - I founded Street Workout Batam in 2015 and become the largest calisthenics community in town now. I trained members to reach their goals in Calisthenics.*
+
+`2015`
+<a href="https://batamlinux.or.id/">**Orientation Steering Committee - State Polytechnic of Batam**</a>, *Chairman of The Board - Lead all steering committe to build and training new executive committee before welcoming new college students.*
+
+`2014`
+<a href="https://batamlinux.or.id/">**Orientation Executive Committee - State Polytechnic of Batam**</a>, *Outdoor Coordinator - Lead outdoor team to mentoring new college students in the form of outdoor activities.*
 
 `2010`
 <a href="https://batamcrew.forumotion.com/">**Batam Crew**</a>, *Founder & Community Builder - Batam underground forum discuss about hacking, phreaking, and more.*

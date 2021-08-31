@@ -131,7 +131,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 ## Projects
 
-<a href="https://hackerotodidak.com/"><i class="fas fa-graduation-cap"></i> **HackerOtodidak.com & Hackducation (edu.hackerotodidak.com)**</a> - Cybersecurity Consulting & Cyber Education 4.0 - Learning platform to become an Ethical Hacker by autodidact way.
+<a href="https://hackerotodidak.com/"><i class="fas fa-graduation-cap"></i> **HackerOtodidak.com**</a> - Cybersecurity Consulting & Cyber Education 4.0 - Learning platform to become an Ethical Hacker by autodidact way.
 
 <a href="https://github.com/yogikortisa/instagram-scraper-2020"><i class="fab fa-github"></i> **instagram-scraper-2020**</a> - Grab feeds of any instagram account with this instagram scraper 2020. You can customize and upgrade this potential script to show the video urls, tags, and more.
 

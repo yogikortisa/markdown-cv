@@ -51,7 +51,7 @@ Observe, synthesize, theorize, explore, design, develop, test, implement, improv
 Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests and red teaming as cybersecurity solution for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.  
 <br>
 `2021-present`
-<br>
+<br><br>
 **Independent Security Researcher**, *hackerone.com, others*
 
 Security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities and recognized by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.

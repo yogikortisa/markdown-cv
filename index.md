@@ -49,7 +49,7 @@ Observe, synthesize, theorize, explore, design, develop, test, implement, improv
 **Founder, Mentor, Pen-tester**, *hackerotodidak.com*
 
 Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests and red teaming as cybersecurity solution for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.  
-<br>
+<br><br><br>
 `2021-present`
 
 **Independent Security Researcher**, *hackerone.com, others*

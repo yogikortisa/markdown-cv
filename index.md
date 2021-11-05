@@ -90,6 +90,9 @@ How I accidentally found my PII leaked on the internet caused by security issues
 ## Talks
 
 `2021`
+<a href="https://www.instagram.com/p/CVj7OoCPoDx">**Benchmarking: Pengelolaan Security Operation Center (SOC) untuk kegiatan Pengembangan Laboratorium SOC-RKS**</a>, *Moderator - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
+
+`2021`
 <a href="https://bit.ly/TechoTalk">**Keamanan Digital Online Shop dan Maraknya Penjualan Data Pribadi**</a>, *Panelist - TechoTalk Cyber Charity*
 
 `2021`

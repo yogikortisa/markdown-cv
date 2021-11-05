@@ -85,7 +85,7 @@ I described the process of how I found multiple vulnerabilities on a government 
 
 How I accidentally found my PII leaked on the internet caused by security issues on a government site.
 
-<br><br><br><br><br><br>
+
 ## Talks
 
 `2021`
@@ -96,7 +96,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 `2021`
 <a href="https://youtu.be/uoWv2IO7eD0">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp (edu.hackerotodidak.com)*
-
+<br><br>
 `2021`
 <a href="https://instagram.com/batamitsecurity/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juaga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
 

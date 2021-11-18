@@ -89,6 +89,9 @@ How I accidentally found my PII leaked on the internet caused by security issues
 ## Talks
 
 `2021`
+<a href="https://www.instagram.com/rks.polibatam/">**Focus Group Discussion: Responsible Disclosure Policy dan Web Security Assessment Sebagai Solusi Keamanan Aplikasi Web**</a>, *Keynote Speaker - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
+
+`2021`
 <a href="https://www.instagram.com/p/CVj7OoCPoDx">**Benchmarking: Pengelolaan Security Operation Center (SOC) untuk kegiatan Pengembangan Laboratorium SOC-RKS**</a>, *Moderator - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
 
 `2021`

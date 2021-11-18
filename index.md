@@ -89,7 +89,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 ## Talks
 
 `2021`
-<a href="https://www.instagram.com/rks.polibatam/">**Focus Group Discussion: Responsible Disclosure Policy dan Web Security Assessment Sebagai Solusi Keamanan Aplikasi Web**</a>, *Keynote Speaker - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
+<a href="https://www.instagram.com/rks.polibatam/">**Focus Group Discussion: "Responsible Disclosure Policy dan Web Security Assessment Sebagai Solusi Keamanan Aplikasi Web"**</a>, *Keynote Speaker - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
 
 `2021`
 <a href="https://www.instagram.com/p/CVj7OoCPoDx">**Benchmarking: Pengelolaan Security Operation Center (SOC) untuk kegiatan Pengembangan Laboratorium SOC-RKS**</a>, *Moderator - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
@@ -99,7 +99,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 `2021`
 <a href="https://youtu.be/uoWv2IO7eD0">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp (edu.hackerotodidak.com)*
-<br><br><br>
+
 `2021`
 <a href="https://instagram.com/batamitsecurity/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juaga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
 

@@ -3,7 +3,7 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Cybersecurity Researcher
+Web Developer & Information Security Researcher
 
 <div id="webaddress">
   <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> 

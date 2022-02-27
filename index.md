@@ -40,10 +40,20 @@ Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Z
 
 ## Experiences
 
+`2022-present`
+**Instructor**, *sekolahhacker.com*
+
+Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance. 
+
 `2019-present`
 **Web Developer & Security Researcher**, *BIFZA - Batam Indonesia Free Zone Authority*
 
 Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale up software and application at BIFZA. Build Application Security (AppSec) Program, Secure-Software Development Lifecycle (S-SDLC) standard, recon & assets monitoring, and penetration testing on particular applications.
+
+`2022-present`
+**Cyber Security Mentor**, *adinusa.id, infradigitalfoundation.org*
+
+Cyber Security Mentor at Cybersecuriy Training Sub Batch 1 2022 - Mastercard Academy 2.0
 
 `2021-present`
 **Founder, Mentor, Pen-tester**, *hackerotodidak.com*

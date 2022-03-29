@@ -51,9 +51,14 @@ Online Bootcamp and Mentoring Program face to face (live) to educate you to beco
 Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale up software and application at BIFZA. Build Application Security (AppSec) Program, Secure-Software Development Lifecycle (S-SDLC) standard, recon & assets monitoring, and penetration testing on particular applications.
 
 `2022-present`
-**Cyber Security Mentor**, *adinusa.id, infradigitalfoundation.org*
+**Cyber Security Mentor**, *adinusa.id*
 
-Cyber Security Mentor at Cybersecuriy Training Sub Batch 1 2022 - Mastercard Academy 2.0
+Cyber Security Mentor at Cybersecuriy Training Sub Batch 1 2022 - Mastercard Academy 2.0.
+
+`2022`
+**Cyber Security Trainer**, *rainusa.co.id*
+
+Delivered two days of full Information Security Awareness Training with high quality materials for several corporate IT staff.
 
 `2021-present`
 **Founder, Mentor, Pen-tester**, *hackerotodidak.com*

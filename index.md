@@ -58,7 +58,7 @@ Cyber Security Mentor at Cybersecuriy Training Sub Batch 1 2022 - Mastercard Aca
 `2022`
 **Cyber Security Trainer**, *rainusa.co.id*
 
-Delivered two days of full Information Security Awareness Training with high quality materials for several corporate IT staff.
+Delivered two days of full Cybersecurity Training with high quality materials for several corporate IT staff.
 
 `2021-present`
 **Founder, Mentor, Pen-tester**, *hackerotodidak.com*

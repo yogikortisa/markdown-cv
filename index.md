@@ -3,12 +3,12 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Penetration Tester, Application Security
+Penetration Tester, Application Security Specialist
 
 <div id="webaddress">
   <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> 
   <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> 
-  <a href="https://api.whatsapp.com/send?phone=6289673199362&lang=id"><i class="fab fa-whatsapp"></i> 62896-7319-9362</a> -
+  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> 0895-2381-5871</a> -
   <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/yogikortisa/"><i class="fab fa-linkedin"></i></a>
   <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i></a>

@@ -16,9 +16,9 @@ Application Security & Penetration Tester
 
 ## Summary
 
-I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past four years. I talk about security topics as a keynote speaker & educator since 2013, provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
+I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past five years. I talk about security topics as a keynote speaker & educator since 2013 and provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
 <br>
-Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities on various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 ## Core Competencies
 Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Zap Proxy, Burp Suite, GNU/Linux System Administration, Nmap, Wireshark, Metasploit, Database Administration, PHP, Bash, Social Engineering, OSINT, Advanced Reconnaissance, Asset Discovery, Coaching & Mentoring
@@ -48,37 +48,37 @@ Online Bootcamp and Mentoring Program face to face (live) to educate you to beco
 `2019-present`
 **Web Developer & Security Researcher**, *BIFZA - Batam Indonesia Free Zone Authority*
 
-Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale up software and application at BIFZA. Build Application Security (AppSec) Program, Secure-Software Development Lifecycle (S-SDLC) standard, recon & assets monitoring, and penetration testing on particular applications.
+Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up software and application at BIFZA. Build Application Security (AppSec) Program, Secure-Software Development Lifecycle (S-SDLC) standard, recon & assets monitoring, and penetration testing on particular applications.
 
 `2022-present`
 **Cyber Security Mentor**, *adinusa.id*
 
-Cyber Security Mentor at Cybersecuriy Training Sub Batch 1 2022 - Mastercard Academy 2.0.
+Cyber Security Mentor at Cybersecurity Training Sub Batch 1 2022 - Mastercard Academy 2.0.
 
 `2022`
 **Cyber Security Trainer**, *rainusa.co.id*
 
-Delivered two days of full Cybersecurity Training with high quality materials for several corporate IT staff.
+Delivered two days of full Cybersecurity Training with high-quality materials for several corporate IT staff.
 
 `2021-present`
 **Founder, Mentor, Pen-tester**, *hackerotodidak.com*
 
-Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests and red teaming as cybersecurity solution for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.  
+Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests and red teaming as cybersecurity solutions for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.  
 
 `2021-present`
 **Independent Security Researcher**, *hackerone.com, others*
 
-Security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities and recognized by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+Security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities recognized by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 `2020-present`
 **Freelance IT Consultant**, *projects.co.id*
 
-Part time IT consultant in my spare time for help others and fun. 
+Part time IT consultant in my spare time to help others and have fun. 
 
 `2013-present`
 **Cybersecurity Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
 
-Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more. 
+Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at the national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more. 
 
 `2017-2019`
 **Full-stack Developer & Lead Software Engineer**, *PT Indonesia Villajaya*

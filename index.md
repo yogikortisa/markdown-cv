@@ -41,7 +41,7 @@ Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Z
 ## Experiences
 
 `2022-present`
-**Instructor**, *sekolahhacker.com*
+**Cyber Security Instructor**, *sekolahhacker.com*
 
 Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance. 
 

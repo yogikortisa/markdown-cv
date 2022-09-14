@@ -43,6 +43,8 @@ Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Z
 `2022-present`
 **Cyber Security Specialist**, *BIFZA - Batam Indonesia Free Zone Authority*
 
+Application security engineering, Secure SDLC implementation, DevSecOps initiative, security champion & culture building, vulnerability assessment, penetration testing, vulnerability management, incident handler/reponder/management as part of CSIRT member, risk assessment & management, security standard, policy, procedure, security audit & compliances (Govt regulations, OWASP Top 10/ASVS/MASVS/WSTG/MASTG/SAMM, NIST standards & guidelines, etc), security monitoring & automation, security Research & Development (R&D).
+
 `2022-present`
 **Cyber Security Instructor**, *sekolahhacker.com*
 
@@ -107,7 +109,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 ## Talks
 
 `2022`
-<a href="https://www.instagram.com/p/CVj7OoCPoDx">**Cyber Incident Management**</a>, *Moderator - Peresmian Tim Tanggap Insiden Siber CSIRT – BP Batam*
+<a href="https://bpbatam.go.id/peresmian-tim-tanggap-insiden-siber-csirt-bp-batam/">**Cyber Incident Management**</a>, *Moderator - Peresmian Tim Tanggap Insiden Siber CSIRT – BP Batam*
 
 `2022`
 <a href="https://www.instagram.com/p/CfQkQwgL-D3/">**Free Open Source Software (FOSS) Day 2022: "Open Source For All Generations"**</a>, *Panelist - Batam Linux User Group (BLUG)*

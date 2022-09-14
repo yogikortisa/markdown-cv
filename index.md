@@ -107,6 +107,9 @@ How I accidentally found my PII leaked on the internet caused by security issues
 ## Talks
 
 `2022`
+<a href="https://www.instagram.com/p/CVj7OoCPoDx">**Cyber Incident Management**</a>, *Moderator - Peresmian Tim Tanggap Insiden Siber CSIRT – BP Batam*
+
+`2022`
 <a href="https://www.instagram.com/p/CfQkQwgL-D3/">**Free Open Source Software (FOSS) Day 2022: "Open Source For All Generations"**</a>, *Panelist - Batam Linux User Group (BLUG)*
 
 `2021`

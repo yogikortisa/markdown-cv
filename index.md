@@ -41,12 +41,15 @@ Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Z
 ## Experiences
 
 `2022-present`
+**Cyber Security Specialist**, *BIFZA - Batam Indonesia Free Zone Authority*
+
+`2022-present`
 **Cyber Security Instructor**, *sekolahhacker.com*
 
 Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance. 
 
-`2019-present`
-**Web Developer & Security Researcher**, *BIFZA - Batam Indonesia Free Zone Authority*
+`2019-2022`
+**Web Developer**, *BIFZA - Batam Indonesia Free Zone Authority*
 
 Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up software and application at BIFZA. Build Application Security (AppSec) Program, Secure-Software Development Lifecycle (S-SDLC) standard, recon & assets monitoring, and penetration testing on particular applications.
 

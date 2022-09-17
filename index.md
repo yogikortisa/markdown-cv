@@ -21,7 +21,7 @@ I'm an IT Professional with a primary focus on penetration testing and web appli
 Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 ## Core Competencies
-Penetration Testing, Red Team, Web Development & Security, OWASP Top 10, OWASP Zap Proxy, Burp Suite, GNU/Linux System Administration, Nmap, Wireshark, Metasploit, Database Administration, PHP, Bash, Social Engineering, OSINT, Advanced Reconnaissance, Asset Discovery, Coaching & Mentoring
+Web Application Security, Penetration Testing, Application Security Engineering, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
 
 ## Education & Certification
 

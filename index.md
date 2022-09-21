@@ -3,12 +3,12 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Application Security & Penetration Tester
+Application Security Engineer & Penetration Tester
 
 <div id="webaddress">
   <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> 
   <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> 
-  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> 0895-2381-5871</a> -
+  <a href="https://api.whatsapp.com/send?phone=6289673199362&lang=id"><i class="fab fa-whatsapp"></i> 0896-7319-9362</a> -
   <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/yogikortisa/"><i class="fab fa-linkedin"></i></a>
   <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i></a>
@@ -55,7 +55,7 @@ Online Bootcamp and Mentoring Program face to face (live) to educate you to beco
 
 Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up software and application at BIFZA. Build Application Security (AppSec) Program, Secure-Software Development Lifecycle (S-SDLC) standard, recon & assets monitoring, and penetration testing on particular applications.
 
-`2022-present`
+`2022`
 **Cyber Security Mentor**, *adinusa.id*
 
 Cyber Security Mentor at Cybersecurity Training Sub Batch 1 2022 - Mastercard Academy 2.0.

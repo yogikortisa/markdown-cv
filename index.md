@@ -18,7 +18,7 @@ Application Security Engineer & Penetration Tester
 
 I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past five years. I talk about security topics as a keynote speaker & educator since 2013 and provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
 <br>
-Currently, I'm building Application Security (AppSec) Testing Program at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with web penetration testing across all of our external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+Currently, I'm building Application Security (AppSec) program with DevSecOps initiative at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with vulnerability management across all of our internal & external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
 
 ## Core Competencies
 Web Application Security, Penetration Testing, Application Security Engineering, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.

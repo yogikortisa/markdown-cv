@@ -112,6 +112,9 @@ How I accidentally found my PII leaked on the internet caused by security issues
 ## Talks
 
 `2022`
+<a href="https://www.instagram.com/p/ClIbR_PrF4m/">**Berkarier Sebagai Cyber Security**</a>, *Keynote Speaker - Webinar Series (SekolahHacker.com)*
+
+`2022`
 <a href="https://bpbatam.go.id/peresmian-tim-tanggap-insiden-siber-csirt-bp-batam/">**Cyber Incident Management**</a>, *Moderator - Peresmian Tim Tanggap Insiden Siber CSIRT – BP Batam*
 
 `2022`

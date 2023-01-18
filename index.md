@@ -26,6 +26,9 @@ Web Application Security, Web/Network Penetration Testing, Application Security 
 ## Education & Certification
 
 `2022`
+<a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXW0s0nbOQXiGsfCC1ccnh6QeQ+qU30cIBGceHTE+b8xW3oPj8o1uX4QkzRvMwRLs2rB7ba5wH49QX805LOyVXQA="><i class="fas fa-certificate"></i> **Certified AppSec Practitioner (CAP)**</a>, *The SecOps Group*
+
+`2022`
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=c+HhMJEVMMws6pVjDythjV4BTpDQIiNc9v8OqzXXiwk="><i class="fas fa-certificate"></i> **Certified Network Defender (CND)**</a>, *EC-Council*
 
 `2020`

@@ -3,7 +3,7 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Application Security Engineer & Penetration Tester
+Offensive Cybersecurity & Application Security Specialist
 
 <div id="webaddress">
   <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> 

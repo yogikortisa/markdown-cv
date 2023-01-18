@@ -18,10 +18,10 @@ Offensive Cybersecurity & Application Security Specialist
 
 I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past five years. I talk about security topics as a keynote speaker & educator since 2013 and provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
 <br>
-Currently, I'm building Application Security (AppSec) program with DevSecOps initiative at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with vulnerability management across all of our internal & external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+Currently, I'm building Application Security (AppSec) program with DevSecOps initiative at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with vulnerability management across all of our internal & external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, government sites, and more.
 
 ## Core Competencies
-Web Application Security, Penetration Testing, Application Security Engineering, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
+Web Application Security, Web/Network Penetration Testing, Application Security Engineering, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
 
 ## Education & Certification
 
@@ -110,6 +110,9 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 
 ## Talks
+
+`2023`
+<a href="https://www.instagram.com/p/CnjEXlzLILZ/">**Mini Bootcamp: Web Pentesting Fundamental**</a>, *Instructor - Penetration Testing Internal Boot Camp - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
 
 `2022`
 <a href="https://www.instagram.com/p/ClIbR_PrF4m/">**Berkarier Sebagai Cyber Security**</a>, *Keynote Speaker - Webinar Series (SekolahHacker.com)*

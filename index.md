@@ -57,7 +57,7 @@ Application security engineering, Secure SDLC implementation, DevSecOps initiati
 Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance. 
 
 `2023`
-**Cyber Security Instructor/Mentor**, *polibatam.ac.id*
+**Cyber Security Instructor**, *polibatam.ac.id*
 
 Delivered two days of Penetration Testing Internal Boot Camp: Web Pentesting Fundamental. Cyber Security Engineering study program, State Polytechnic of Batam.
 
@@ -118,9 +118,6 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 
 ## Talks
-
-`2023`
-<a href="https://www.instagram.com/p/CnjEXlzLILZ/">**Mini Bootcamp: Web Pentesting Fundamental**</a>, *Instructor - Penetration Testing Internal Boot Camp - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
 
 `2022`
 <a href="https://www.instagram.com/p/ClIbR_PrF4m/">**Berkarier Sebagai Cyber Security**</a>, *Keynote Speaker - Webinar Series (SekolahHacker.com)*

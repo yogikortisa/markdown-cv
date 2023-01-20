@@ -51,15 +51,15 @@ Web Application Security, Web/Network Penetration Testing, Application Security 
 
 Application security engineering, Secure SDLC implementation, DevSecOps initiative, security champion & culture building, vulnerability assessment, penetration testing, vulnerability management, incident handler/responder/management as part of CSIRT member, risk assessment & management, security standard, policy, procedure, security audit & compliances (Govt regulations, OWASP Top 10/ASVS/MASVS/WSTG/MASTG/SAMM, NIST standards & guidelines, etc), security monitoring & automation, security Research & Development (R&D).
 
-`2023`
-**Cyber Security Instructor/Mentor**, *polibatam.ac.id*
-
-Delivered two days of Penetration Testing Internal Boot Camp: Web Pentesting Fundamental. Cyber Security Engineering study program, State Polytechnic of Batam.
-
 `2022-present`
 **Cyber Security Instructor**, *sekolahhacker.com*
 
 Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance. 
+
+`2023`
+**Cyber Security Instructor/Mentor**, *polibatam.ac.id*
+
+Delivered two days of Penetration Testing Internal Boot Camp: Web Pentesting Fundamental. Cyber Security Engineering study program, State Polytechnic of Batam.
 
 `2019-2022`
 **Web Developer**, *BIFZA - Batam Indonesia Free Zone Authority*

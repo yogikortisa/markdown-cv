@@ -6,12 +6,13 @@ title: Yogi Kortisa's CV
 Application Security Engineer & Penetration Tester
 
 <div id="webaddress">
-  <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> 
+  <a href="https://kortisa.com/"><i class="fas fa-home"></i> kortisa.com</a> 
   <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> 
   <a href="https://api.whatsapp.com/send?phone=6289673199362&lang=id"><i class="fab fa-whatsapp"></i> 0896-7319-9362</a> -
-  <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i></a>
+  <a href="https://github.com/yogikortisa/"><i class="fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/yogikortisa/"><i class="fab fa-linkedin"></i></a>
-  <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i></a>
+  <a href="https://youtube.com/@hackerotodidak/"><i class="fab fa-youtube"></i></a>
+  <a href="https://hackerotodidak.com/"><i class="fas fa-user-tie"></i></a>
 </div>
 
 ## Summary

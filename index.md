@@ -8,7 +8,7 @@ Application Security Engineer & Penetration Tester
 <div id="webaddress">
   <a href="https://kortisa.com"><i class="fas fa-home"></i> kortisa.com</a> 
   <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> 
-  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> 0895-2381-5871</a> -
+  <a href="https://api.whatsapp.com/send?phone=6289673199362&lang=id"><i class="fab fa-whatsapp"></i> 0896-7319-9362</a> -
   <a href="https://github.com/yogikortisa"><i class="fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/yogikortisa/"><i class="fab fa-linkedin"></i></a>
   <a href="https://hackerotodidak.com"><i class="fas fa-user-tie"></i></a>
@@ -16,12 +16,12 @@ Application Security Engineer & Penetration Tester
 
 ## Summary
 
-I'm an IT Professional with a primary focus on penetration testing and web application security testing. I have been in hacking & security since 2009 and working in the IT industry professionally for the past five years. I talk about security topics as a keynote speaker & educator since 2013 and provide practical cybersecurity online courses, training, seminar, and workshop. I skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
+I'm an IT professional focusing primarily on application security engineering and penetration testing. I have been in hacking and security since 2009, and I have experience working for a company and the government professionally for the past five years. I have talked about various topics on information security as a keynote speaker and educator since 2013 and provide practical cybersecurity online courses, training, seminars, and workshops. I have been skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
 <br>
-Currently, I'm building Application Security (AppSec) program with DevSecOps initiative at Batam Indonesia Free Zone Authority (BIFZA) as part of the software development processes and aiding with vulnerability management across all of our internal & external surfaces, including active monitoring digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations such as Cisco, Salesforce, PUPG, ABB, MTN Group, government sites, and more.
+Currently, I'm building application security (AppSec) programs with the DevSecOps initiative at Batam Indonesia Free Zone Authority (BIFZA) as part of the secure software development processes and aiding with vulnerability management across all of our internal and external surfaces, including active monitoring of digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations, such as Cisco, Salesforce, PUPG, ABB, MTN Group, government sites, and more.
 
 ## Core Competencies
-Web Application Security, Web/Network Penetration Testing, Application Security Engineering, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
+Application Security Engineering, Web Application Security, Web/Network Penetration Testing, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
 
 ## Education & Certification
 

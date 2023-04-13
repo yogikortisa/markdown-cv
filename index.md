@@ -22,7 +22,7 @@ I'm an IT professional focusing primarily on application security engineering an
 Currently, I'm building application security (AppSec) programs with the DevSecOps initiative at Batam Indonesia Free Zone Authority (BIFZA) as part of the secure software development processes and aiding with vulnerability management across all of our internal and external surfaces, including active monitoring of digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations, such as Cisco, Salesforce, PUPG, ABB, MTN Group, government sites, and more.
 
 ## Core Competencies
-Application Security Engineering, Web Application Security, Web/Network Penetration Testing, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
+Application Security Engineering, Web Application Security, Web Application Penetration Testing, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
 
 ## Education & Certification
 
@@ -188,9 +188,9 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 <a href="https://belajar.linux.or.id/2016/04/24/foss-day-2016-digelar-meriah-oleh-batam-linux-user-group-blug/"> **Free Open Source Software (FOSS) Day**</a> - The first and largest annual celebration, exhibition, public education effort with the aim of increasing awareness of Free & Open Source Software (FOSS) and its virtues, and encouraging its use. 
 
-<a href="https://bpbatam.go.id"> **Application Security (AppSec) Testing Program at BIFZA**</a> - Build AppSec security testing program and integrate into software development process.
+<a href="https://bpbatam.go.id"> **Application Security (AppSec) Program at BIFZA**</a> - Build AppSec security program and integrate into software development process.
 
-<a href="https://scutogadingserpong.com/"> **Vulnerability Assessment & Penetration Testing (VAPT) on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment & Penetration Testing (VAPT) on web application. 
+<a href="https://scutogadingserpong.com/"> **Vulnerability Assessment & Penetration Testing (VAPT) on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment & Penetration Testing (VAPT) on a web application. 
 
 
 

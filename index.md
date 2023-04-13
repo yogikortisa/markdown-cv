@@ -48,7 +48,7 @@ Application Security Engineering, Web Application Security, Web Application Pene
 ## Experiences
 
 `2022-present`
-**Cyber Security Specialist**, *BIFZA - Batam Indonesia Free Zone Authority*
+**Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
 
 Application security engineering, Secure SDLC implementation, DevSecOps initiative, security champion & culture building, vulnerability assessment, penetration testing, vulnerability management, incident handler/responder/management as part of CSIRT member, risk assessment & management, security standard, policy, procedure, security audit & compliances (Govt regulations, OWASP Top 10/ASVS/MASVS/WSTG/MASTG/SAMM, NIST standards & guidelines, etc), security monitoring & automation, security Research & Development (R&D).
 

@@ -178,19 +178,19 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 ## Projects
 
-<a href="https://hackerotodidak.com/"><i class="fas fa-graduation-cap"></i> **HackerOtodidak.com**</a> - Cybersecurity Consulting & Cyber Education 4.0 - Learning platform to become an Ethical Hacker by autodidact way.
+<a href="https://hackerotodidak.com/"><i class="fas fa-graduation-cap"></i> **HackerOtodidak.com**</a> - Cybersecurity consulting & cyber education learning platform to become an Ethical Hacker by autodidact way.
 
-<a href="https://github.com/yogikortisa/instagram-scraper-2020"><i class="fab fa-github"></i> **instagram-scraper-2020**</a> - Grab feeds of any instagram account with this instagram scraper 2020. You can customize and upgrade this potential script to show the video urls, tags, and more.
+<a href="https://www.instagram.com/p/BM_WlDVBSZG/?utm_source=ig_web_copy_link">**Batam Open Source & CTF Competition (OSC)**</a> - The first and largest Open Source & CTF competition held in Batam every year. 
 
-<a href="https://github.com/yogikortisa/pentesting-reports"><i class="fab fa-github"></i> **pentesting-reports**</a> - Some of the fun-testing reports that I have done, used by my lecturer as a module on Network Security subject in college.
-
-<a href="https://www.instagram.com/p/BM_WlDVBSZG/?utm_source=ig_web_copy_link">**Open Source & CTF Competition (OSC)**</a> - The first and largest Open Source & CTF competition held in Batam every year. 
-
-<a href="https://belajar.linux.or.id/2016/04/24/foss-day-2016-digelar-meriah-oleh-batam-linux-user-group-blug/"> **Free Open Source Software (FOSS) Day**</a> - The first and largest annual celebration, exhibition, public education effort with the aim of increasing awareness of Free & Open Source Software (FOSS) and its virtues, and encouraging its use. 
+<a href="https://belajar.linux.or.id/2016/04/24/foss-day-2016-digelar-meriah-oleh-batam-linux-user-group-blug/"> **Free Open Source Software (FOSS) Day**</a> - The first and largest annual celebration, exhibition, public education effort with the aim of increasing awareness of Free & Open Source Software (FOSS) and its virtues, and encouraging its use held in Batam every year. 
 
 <a href="https://bpbatam.go.id"> **Application Security (AppSec) Program at BIFZA**</a> - Build AppSec security program and integrate into software development process.
 
-<a href="https://scutogadingserpong.com/"> **Vulnerability Assessment & Penetration Testing (VAPT) on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment & Penetration Testing (VAPT) on a web application. 
+<a href="https://app.jala.tech/"> **Web Application Penetration Testing on JALA App**</a> - Conduct Penetration Testing on a web application. 
+
+<a href="https://scutogadingserpong.com/"> **Vulnerability Assessment on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment on a web application. 
+
+<a href="https://github.com/yogikortisa/instagram-scraper-2020"><i class="fab fa-github"></i> **instagram-scraper-2020**</a> - Grab feeds of any instagram account with this instagram scraper 2020. You can customize and upgrade this potential script to show the video urls, tags, and more.
 
 
 

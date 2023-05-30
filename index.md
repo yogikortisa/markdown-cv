@@ -93,7 +93,7 @@ Security research on various Vulnerability Disclosure Program (VDP) and platform
 Part time IT consultant in my spare time to help others and have fun. 
 
 `2013-present`
-**Cybersecurity Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
+**Cyber Security Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
 
 Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at the national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more. 
 

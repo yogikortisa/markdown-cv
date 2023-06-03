@@ -186,7 +186,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 <a href="https://bpbatam.go.id"> **Application Security (AppSec) Program at BIFZA**</a> - Build AppSec security program and integrate into software development process.
 
-<a href="https://app.jala.tech/"> **Web Application Penetration Testing on JALA App**</a> - Conduct Penetration Testing on a web application. 
+<a href="https://app.jala.tech/"> **Penetration Testing on JALA Application**</a> - Conduct Penetration Testing on a web application. 
 
 <a href="https://scutogadingserpong.com/"> **Vulnerability Assessment on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment on a web application. 
 

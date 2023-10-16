@@ -26,6 +26,9 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 
 ## Education & Certification
 
+`2023`
+<a href="https://www.credly.com/badges/7a41936a-f7c7-409c-a8ed-cb0222895c76"><i class="fas fa-certificate"></i> **CompTIA PenTest+**</a>, *CompTIA*
+
 `2022`
 <a href="https://media.licdn.com/dms/document/media/C561FAQFwWwJfb2N3jA/feedshare-document-pdf-analyzed/0/1672309152371?e=1687392000&v=beta&t=Oq9N6sQfy8sSR2thnBcg2_7Dv1gK9h_8IgEL_TX6XME"><i class="fas fa-certificate"></i> **Certified AppSec Practitioner (CAP)**</a>, *The SecOps Group*
 
@@ -53,7 +56,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 Application security engineering, Secure SDLC implementation, DevSecOps initiative, security champion & culture building, vulnerability assessment, penetration testing, vulnerability management, incident handler/responder/management as part of CSIRT member, risk assessment & management, security standard, policy, procedure, security audit & compliances (Govt regulations, OWASP Top 10/ASVS/MASVS/WSTG/MASTG/SAMM, NIST standards & guidelines, etc), security monitoring & automation, security Research & Development (R&D).
 
 `2022-present`
-**Cyber Security Instructor**, *sekolahhacker.com*
+**Cyber Security Instructor**, *Sekolah Hacker*
 
 Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance. 
 

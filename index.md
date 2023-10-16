@@ -88,7 +88,7 @@ Cybersecurity consultancy, infosec awareness program, and employee training. Per
 `2021-present`
 **Independent Security Researcher**, *hackerone.com, others*
 
-Security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities recognized by Cisco, Salesforce, PUPG, ABB, MTN Group, Government Sites, and more.
+Security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, Government Sites, and more.
 
 `2020-present`
 **Freelance IT Consultant**, *projects.co.id*

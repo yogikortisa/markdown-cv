@@ -30,7 +30,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 <a href="https://www.credly.com/badges/7a41936a-f7c7-409c-a8ed-cb0222895c76"><i class="fas fa-certificate"></i> **CompTIA PenTest+**</a>, *CompTIA*
 
 `2022`
-<a href="https://media.licdn.com/dms/document/media/C561FAQFwWwJfb2N3jA/feedshare-document-pdf-analyzed/0/1672309152371?e=1687392000&v=beta&t=Oq9N6sQfy8sSR2thnBcg2_7Dv1gK9h_8IgEL_TX6XME"><i class="fas fa-certificate"></i> **Certified AppSec Practitioner (CAP)**</a>, *The SecOps Group*
+<a href="https://secops.group/certificate-validation/"><i class="fas fa-certificate"></i> **Certified AppSec Practitioner (CAP)**</a>, *The SecOps Group*
 
 `2022`
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=c+HhMJEVMMws6pVjDythjV4BTpDQIiNc9v8OqzXXiwk="><i class="fas fa-certificate"></i> **Certified Network Defender (CND)**</a>, *EC-Council*

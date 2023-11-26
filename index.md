@@ -200,7 +200,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 ## Volunteerism
 
 `2019-present`
-<a href="https://chat.whatsapp.com/C8auq6ThhtCFk37iW3ZBRU">**Batam IT Security (BITS)**</a>, *Founder & Community Builder - The largest cybersecurity community in Batam for sharing and learning, career/seminar/training info, coffee & hack meetup.*
+<a href="https://chat.whatsapp.com/C8auq6ThhtCFk37iW3ZBRU">**Batam IT Security (BITS)**</a>, *Founder & Community Builder - The largest cybersecurity community in Batam for sharing and learning, career/seminar/training info, hack & coffee meetup.*
 
 `2021`
 <a href="https://chat.whatsapp.com/EiKuW3mUn2JGHSGpooLpYU">**Batam Developer Programmer (DevPro)**</a>, *Initiator - Local group of Batam developer & programmer for sharing & learning together.*

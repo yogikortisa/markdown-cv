@@ -88,7 +88,7 @@ Cybersecurity consultancy, infosec awareness program, and employee training. Per
 `2021-present`
 **Independent Security Researcher**, *various VDP & BBP*
 
-Security research on various Vulnerability Disclosure Program (VDP) and Bug Bounty Program (BBP) and platforms such as HackeOne and YesWeHack. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, Government Sites, and more.
+Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty Program (BBP), and platforms such as HackeOne and YesWeHack. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, Government Sites, and more.
 
 `2020-present`
 **Freelance IT Consultant**, *projects.co.id*

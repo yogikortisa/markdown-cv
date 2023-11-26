@@ -22,7 +22,7 @@ I'm a Cybersecurity Professional focusing primarily on application/product secur
 Currently, I'm building application security (AppSec) programs with the DevSecOps initiative at Batam Indonesia Free Zone Authority (BIFZA) as part of the secure software development processes and aiding with vulnerability management across all of our internal and external surfaces, including active monitoring of digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations, such as Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, government sites, and more.
 
 ## Core Competencies
-Web Application Penetration Testing, Web Application Security, Application Security Engineering, Vulnerability Assessment, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
+Web Application Penetration Testing, Web Application Security, Application Security Engineering, Vulnerability Assessment & Management, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
 
 ## Education & Certification
 

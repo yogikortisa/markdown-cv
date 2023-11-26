@@ -83,12 +83,12 @@ Delivered two days of full Cybersecurity Training with high-quality materials fo
 `2021-present`
 **Founder, Mentor, Pen-tester**, *hackerotodidak.com*
 
-Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests and red teaming as cybersecurity solutions for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.  
+Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests as cybersecurity solutions for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.  
 
 `2021-present`
-**Independent Security Researcher**, *hackerone.com, others*
+**Independent Security Researcher**, *VDP & BBP platforms*
 
-Security research on various Vulnerability Disclosure Program (VDP) and platform such as hackerone.com. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, Government Sites, and more.
+Security research on various Vulnerability Disclosure Program (VDP) and Bug Bounty Program (BBP) platforms such as hackerone.com and yeswehack.com. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, Government Sites, and more.
 
 `2020-present`
 **Freelance IT Consultant**, *projects.co.id*

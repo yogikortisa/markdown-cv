@@ -108,7 +108,7 @@ Lead and manage a team of programmers, coach and guide the development of the te
 
 ## Publications
 
-<a href="https://repository.polibatam.ac.id/xmlui/handle/123456789/1581"><i class="fas fa-book"></i> **SQL Injection Detection Using Code Review & Penetration Testing**</a>, *Academic Journal*
+<a href="https://repository.polibatam.ac.id/items/f9adb30f-3a88-4da3-b978-b4ea5a347892/full"><i class="fas fa-book"></i> **SQL Injection Detection Using Code Review & Penetration Testing**</a>, *Academic Journal*
 
 This study aims to test the effectiveness of the methods Code Review and Penetration Testing in detecting SQL injection security holes in the web application.
 

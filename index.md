@@ -8,7 +8,7 @@ Offensive & Application Security Engineer
 <div id="webaddress">
   <a href="https://kortisa.com/"><i class="fas fa-home"></i> kortisa.com</a> 
   <a href="mailto:yogi@kortisa.com"><i class="fas fa-envelope"></i> yogi@kortisa.com</a> 
-  <a href="https://api.whatsapp.com/send?phone=6289673199362&lang=id"><i class="fab fa-whatsapp"></i> 0896-7319-9362</a> -
+  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> 0895-2381-5871</a> -
   <a href="https://github.com/yogikortisa/"><i class="fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/yogikortisa/"><i class="fab fa-linkedin"></i></a>
   <a href="https://youtube.com/@hackerotodidak/"><i class="fab fa-youtube"></i></a>
@@ -36,7 +36,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=c+HhMJEVMMws6pVjDythjV4BTpDQIiNc9v8OqzXXiwk="><i class="fas fa-certificate"></i> **Certified Network Defender (CND)**</a>, *EC-Council*
 
 `2020`
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=s9kZuS7yOE41g5ZAOjDW1qUO0SYS5GWO8FHkpNyNARg="><i class="fas fa-certificate"></i> **Certified Ethical Hacker (CEH) Practical**</a>, *EC-Council*
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=s9kZuS7yOE41g5ZAOjDW1qUO0SYS5GWO8FHkpNyNARg="><i class="fas fa-certificate"></i> **Certified Ethical Hacker (CEH) Practical (expired)**</a>, *EC-Council*
 
 `2020`
 <a href="https://verified.elearnsecurity.com/certificates/df3c292e-0a9d-4045-a9b9-d6638be041a1"><i class="fas fa-certificate"></i> **eLearnSecurity Junior Penetration Tester (eJPT)**</a>, *eLearnSecurity*

@@ -36,7 +36,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=c+HhMJEVMMws6pVjDythjV4BTpDQIiNc9v8OqzXXiwk="><i class="fas fa-certificate"></i> **Certified Network Defender (CND)**</a>, *EC-Council*
 
 `2020`
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=s9kZuS7yOE41g5ZAOjDW1qUO0SYS5GWO8FHkpNyNARg="><i class="fas fa-certificate"></i> **Certified Ethical Hacker (CEH) Practical (expired)**</a>, *EC-Council*
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=s9kZuS7yOE41g5ZAOjDW1qUO0SYS5GWO8FHkpNyNARg="><i class="fas fa-certificate"></i> **Certified Ethical Hacker (CEH) Practical**</a>, *(expired) EC-Council*
 
 `2020`
 <a href="https://verified.elearnsecurity.com/certificates/df3c292e-0a9d-4045-a9b9-d6638be041a1"><i class="fas fa-certificate"></i> **eLearnSecurity Junior Penetration Tester (eJPT)**</a>, *eLearnSecurity*

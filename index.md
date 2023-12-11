@@ -44,6 +44,9 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2020`
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=aPUcRLCpq6lZ+ln02klVdD38moYqKFtd3bu4V0bV1gg="><i class="fas fa-certificate"></i> **Certified Secure Computer User (CSCU)**</a>, *EC-Council*
 
+`2017`
+<a href="https://media.licdn.com/dms/image/D562DAQGWWhv0Wr4mvQ/profile-treasury-document-cover-images_480/0/1702089889560?e=1702864800&v=beta&t=JpSNdOXbatv6nFEpRe3Sfcxr9E8VOq2FFa4QPc6S-fk"><i class="fas fa-certificate"></i> **FORESEC Certified Network Security (FCNS)**</a>, *FORESEC*
+
 `2013-2017`
 <a href="https://www.polibatam.ac.id/d4-multimedia-dan-jaringan/"><i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**</a>, *State Polytechnic of Batam*
 

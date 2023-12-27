@@ -59,12 +59,13 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Develop and execute comprehensive cybersecurity strategies and program plans to enhance overall security posture.
 - Lead Application Security (AppSec) / Product Security (ProdSec) engineering efforts, ensuring the robust security of applications and products.
 - Drive the implementation of secure SDLC practices within agile environments, promoting security throughout development cycles.
-- Spearhead the creation and review of secure architectures, ensuring alignment with industry best practices.
+- Spearhead the creation and review of secure architectures and initiated threat modeling exercises.
 - Implemented and championed DevSecOps initiatives, fostering a culture of security-conscious development and deployment.
-- Pioneered a security culture initiative, increasing awareness and expediting the resolution of vulnerabilities.
-- Played a vital role in the CSIRT, effectively mitigating incidents and ensuring a rapid response to security events.
+- Pioneered a security culture initiative, increasing awareness, and expediting the resolution of vulnerabilities.
+- Played a vital role in the CSIRT, effectively mitigating incidents, and ensuring a rapid response to security events.
 - Implemented a risk-based approach, enhancing overall risk management practices and ensuring compliance with industry standards.
-- Spearheaded the development of an automated security monitoring system, improving incident detection and response capabilities.
+- Spearheaded the development of security assessment automation, improving incident detection and response capabilities.
+- Developed and implemented security automation to enhance security assessment
 
 `2022-2023`
 **Cyber Security Instructor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*

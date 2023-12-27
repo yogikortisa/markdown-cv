@@ -65,7 +65,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Played a vital role in the CSIRT, effectively mitigating incidents, and ensuring a rapid response to security events.
 - Implemented a risk-based approach, enhancing overall risk management practices and ensuring compliance with industry standards.
 - Spearheaded the development of security assessment automation, improving incident detection and response capabilities.
-- Developed and implemented security automation to enhance security assessment
+- Developed and implemented security automation to enhance security assessment.
 
 `2022-2023`
 **Cyber Security Instructor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*

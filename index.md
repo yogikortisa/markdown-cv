@@ -56,7 +56,15 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2022-present`
 **Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
 
-Application security engineering, secure SDLC implementation, DevSecOps initiative, security champion & culture building, vulnerability assessment & penetration testing, vulnerability management, incident handling as part of CSIRT member, risk assessment & management, information security governance & compliances (Govt regulations, ISO/IEC 27000-series, OWASP Top 10/ASVS/MASVS/WSTG/MASTG/SAMM, NIST standards & guidelines, etc), security monitoring & automation, security Research & Development (R&D).
+- Develop and execute comprehensive cybersecurity strategies and program plans to enhance overall security posture.
+- Lead Application Security (AppSec) / Product Security (ProdSec) engineering efforts, ensuring the robust security of applications and products.
+- Drive the implementation of secure SDLC practices within agile environments, promoting security throughout development cycles.
+- Spearhead the creation and review of secure architectures, ensuring alignment with industry best practices.
+- Implemented and championed DevSecOps initiatives, fostering a culture of security-conscious development and deployment.
+- Pioneered a security culture initiative, increasing awareness and expediting the resolution of vulnerabilities.
+- Played a vital role in the CSIRT, effectively mitigating incidents and ensuring a rapid response to security events.
+- Implemented a risk-based approach, enhancing overall risk management practices and ensuring compliance with industry standards.
+- Spearheaded the development of an automated security monitoring system, improving incident detection and response capabilities.
 
 `2022-2023`
 **Cyber Security Instructor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*

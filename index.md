@@ -54,7 +54,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 ## Experiences
 
 `2022-present`
-**Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
+**Offensive & Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
 
 - Develop and execute comprehensive cybersecurity strategies and program plans to enhance overall security posture.
 - Lead Application Security (AppSec) / Product Security (ProdSec) engineering efforts, ensuring the robust security of applications and products.
@@ -64,8 +64,16 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Pioneered a security culture initiative, increasing awareness, and expediting the resolution of vulnerabilities.
 - Played a vital role in the CSIRT, effectively mitigating incidents, and ensuring a rapid response to security events.
 - Implemented a risk-based approach, enhancing overall risk management practices and ensuring compliance with industry standards.
-- Spearheaded the development of security assessment automation, improving incident detection and response capabilities.
+- Execute Vulnerability Assessment & Penetration Testing (VAPT) activities.
 - Developed and implemented security automation to enhance security assessment.
+- Effectively manage tasks while providing mentorship to junior security team members.
+- Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
+
+`2029-2022`
+**Application Engineer & Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*
+
+- Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up application at BIFZA.
+- Building a Security Champions program to bridge security gaps between development, operations, and security departments. Conducting research on Application Security (AppSec) and Vulnerability Management programs, emphasizing the cultivation of a DevSecOps culture and integrating them into the Secure Software Development Life Cycle (S-SDLC) processes. Also, providing assistance with penetration testing across both our internal and external surfaces, including actively monitoring digital assets.
 
 `2022-2023`
 **Cyber Security Instructor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*

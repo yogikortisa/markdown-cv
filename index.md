@@ -56,22 +56,22 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2022-present`
 **Offensive & Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
 
-- Building a scalable application security program with a DevSecOps initiative that helps BIFZA deliver more high-quality secure products/applications.
-- Nurturing agile secure SDLC practices to ensure resilient and secure software development.
-- Conducting thorough web application security assessments and penetration testing that assist organizations in mitigating risks before they are exploited by attackers.
-- Leading vulnerability management efforts, including research, identification, triaging, and developing mitigation strategies that help organizations reduce their overall risks.
-- Providing comprehensive cybersecurity training and mentoring, fostering a culture of awareness and vigilance.
-- Spearheading cybersecurity strategic planning, policy development, and effective management.
-- Effectively manage tasks while providing mentorship to junior security team members.
-- Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
+Building a scalable application security program with a DevSecOps initiative that helps BIFZA deliver more high-quality secure products/applications.
+Nurturing agile secure SDLC practices to ensure resilient and secure software development.
+Conducting thorough web application security assessments and penetration testing that assist organizations in mitigating risks before they are exploited by attackers.
+Leading vulnerability management efforts, including research, identification, triaging, and developing mitigation strategies that help organizations reduce their overall risks.
+Providing comprehensive cybersecurity training and mentoring, fostering a culture of awareness and vigilance.
+Spearheading cybersecurity strategic planning, policy development, and effective management.
+Effectively manage tasks while providing mentorship to junior security team members.
+Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
 
 `2029-2022`
 **Application Engineer & Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*
 
-- Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up application at BIFZA.
-- Building a Security Champions program to bridge security gaps between development, operations, and security departments.
-- Conducting research on Application Security (AppSec) and Vulnerability Management programs.
-- Providing assistance with penetration testing across both our internal and external surfaces, including actively monitoring digital assets.
+Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up application at BIFZA.
+Building a Security Champions program to bridge security gaps between development, operations, and security departments.
+Conducting research on Application Security (AppSec) and Vulnerability Management programs.
+Providing assistance with penetration testing across both our internal and external surfaces, including actively monitoring digital assets.
 
 `2022-2023`
 **Cyber Security Instructor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*

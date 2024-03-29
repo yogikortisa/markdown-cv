@@ -50,7 +50,6 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2013-2017`
 <a href="https://www.polibatam.ac.id/d4-multimedia-dan-jaringan/"><i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**</a>, *State Polytechnic of Batam*
 
-
 ## Experiences
 
 `2022-present`
@@ -65,28 +64,15 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Effectively manage tasks while providing mentorship to junior security team members.
 - Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
 
-`2029-2022`
-**Application Engineer, Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*
-
-- Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up application at BIFZA.
-- Building a Security Champions program to bridge security gaps between development, operations, and security departments.
-- Conducting research on Application Security (AppSec) and Vulnerability Management programs.
-- Providing assistance with penetration testing across both our internal and external surfaces, including actively monitoring digital assets.
-
-`2022-2023`
-**Cyber Security Instructor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*
-
-Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance. 
-
 `2023`
 **Cyber Security Instructor**, *polibatam.ac.id*
 
 Delivered two days of Penetration Testing Internal Boot Camp: Web Pentesting Fundamental. Cyber Security Engineering study program, State Polytechnic of Batam.
 
-`2019-2022`
-**Web Developer**, *BIFZA - Batam Indonesia Free Zone Authority*
+`2022-2023`
+**Cyber Security Instructor & Mentor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*
 
-Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up software and application at BIFZA. Build Application Security (AppSec) Program, Secure-Software Development Lifecycle (S-SDLC) standard, recon & assets monitoring, and penetration testing on particular applications.
+Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance.
 
 `2022`
 **Cyber Security Mentor**, *adinusa.id*
@@ -108,16 +94,23 @@ Cybersecurity consultancy, infosec awareness program, and employee training. Per
 
 Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty Program (BBP), and platforms such as HackeOne and YesWeHack. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, Government Sites, and more.
 
-`2013-present`
-**Cyber Security Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
+`2019-2022`
+**Application Engineer, Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*
 
-Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at the national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more. 
+- Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up application at BIFZA.
+- Building a Security Champions program to bridge security gaps between development, operations, and security departments.
+- Conducting research on Application Security (AppSec) and Vulnerability Management programs.
+- Providing assistance with penetration testing across both our internal and external surfaces, including actively monitoring digital assets.
 
 `2017-2019`
 **Full-stack Developer & Lead Software Engineer**, *PT Indonesia Villajaya*
 
 Lead and manage a team of programmers, coach and guide the development of the team members, share knowledge, motivate and inspire others to generate new ideas, estimate time to accomplish programming tasks and commit to meeting all objectives. Build customized Enterprise Resource Planning (ERP) system, Point of Sales (POS), recruitment online, and other web-based application systems, system integration, API, etc. Monitoring and maintaining for existing applications in entire branch offices as well as observe for any potential improvements.
 
+`2013-present`
+**Cyber Security Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
+
+Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at the national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more. 
 
 ## Publications
 
@@ -190,8 +183,6 @@ How I accidentally found my PII leaked on the internet caused by security issues
 `2013-2017`
 <a href="https://www.instagram.com/p/BE3tci9lkn7/?utm_source=ig_web_copy_link">**Network Security Training**</a>, *Trainer - Batam Linux User Group (BLUG)*
 
-
-
 ## Projects
 
 <a href="https://hackerotodidak.com/"><i class="fas fa-graduation-cap"></i> **HackerOtodidak.com**</a> - Cybersecurity consulting & cyber education learning platform to become an Ethical Hacker by autodidact way.
@@ -207,8 +198,6 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://scutogadingserpong.com/"> **Vulnerability Assessment on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment on a web application. 
 
 <a href="https://github.com/yogikortisa/instagram-scraper-2020"><i class="fab fa-github"></i> **instagram-scraper-2020**</a> - Grab feeds of any instagram account with this instagram scraper 2020. You can customize and upgrade this potential script to show the video urls, tags, and more.
-
-
 
 ## Volunteerism
 

@@ -66,7 +66,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
 
 `2029-2022`
-**Application Engineer & Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*
+**Application Engineer, Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*
 
 - Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up application at BIFZA.
 - Building a Security Champions program to bridge security gaps between development, operations, and security departments.

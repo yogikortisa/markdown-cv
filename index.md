@@ -64,6 +64,21 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Effectively manage tasks while providing mentorship to junior security team members.
 - Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
 
+`2021-present`
+**Founder, Pentester, Researcher**, *hackerotodidak.com*
+
+Cybersecurity consultancy and education services. Providing vulnerability assessment, web application penetration testing, application security program building, DevSecOps implementation, cybersecurity education, training, and mentoring.
+
+`2021-present`
+**Independent Security Researcher**, *various VDP & BBP*
+
+Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty Program (BBP), and platforms such as HackeOne and YesWeHack. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, government sites, and more.
+
+`2013-present`
+**Cyber Security Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
+
+Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at the national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more.
+
 `2023`
 **Cyber Security Instructor**, *polibatam.ac.id*
 
@@ -84,16 +99,6 @@ Cyber Security Mentor at Cybersecurity Training Sub Batch 1 2022 - Mastercard Ac
 
 Delivered two days of full Cybersecurity Training with high-quality materials for several corporate IT staff.
 
-`2021-present`
-**Founder, Mentor, Pen-tester**, *hackerotodidak.com*
-
-Cybersecurity consultancy, infosec awareness program, and employee training. Performing penetration tests as cybersecurity solutions for various customers. Cybersecurity training & mentoring with a one-on-one private course, webinars, workshops, and bootcamp.  
-
-`2021-present`
-**Independent Security Researcher**, *various VDP & BBP*
-
-Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty Program (BBP), and platforms such as HackeOne and YesWeHack. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, Government Sites, and more.
-
 `2019-2022`
 **Application Engineer, Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*
 
@@ -106,11 +111,6 @@ Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty 
 **Full-stack Developer & Lead Software Engineer**, *PT Indonesia Villajaya*
 
 Lead and manage a team of programmers, coach and guide the development of the team members, share knowledge, motivate and inspire others to generate new ideas, estimate time to accomplish programming tasks and commit to meeting all objectives. Build customized Enterprise Resource Planning (ERP) system, Point of Sales (POS), recruitment online, and other web-based application systems, system integration, API, etc. Monitoring and maintaining for existing applications in entire branch offices as well as observe for any potential improvements.
-
-`2013-present`
-**Cyber Security Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
-
-Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at the national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more. 
 
 ## Publications
 

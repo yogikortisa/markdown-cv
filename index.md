@@ -58,8 +58,8 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 
 - Building a scalable application security program with a DevSecOps initiative that helps BIFZA deliver more high-quality secure products/applications.
 - Nurturing agile secure SDLC practices to ensure resilient and secure software development.
-- Conducting thorough web application security assessments and penetration testing that assist organizations in mitigating risks before they are exploited by attackers.
-- Leading vulnerability management efforts, including research, identification, triaging, and developing mitigation strategies that help organizations reduce their overall risks.
+- Conducting thorough Vulnerability Assessment & Penetration Testing (VAPT) that assist BIFZA in mitigating risks before they are exploited by attackers.
+- Leading vulnerability management efforts, including research, identification, triaging, and developing mitigation strategies that help BIFZA reduce their overall risks.
 - Providing comprehensive cybersecurity training and mentoring, fostering a culture of awareness and vigilance.
 - Spearheading cybersecurity strategic planning, policy development, and effective management.
 - Effectively manage tasks while providing mentorship to junior security team members.

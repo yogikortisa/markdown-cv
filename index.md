@@ -74,7 +74,8 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 
 - Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up application at BIFZA.
 - Building a Security Champions program to bridge security gaps between development, operations, and security departments.
-- Conducting research on Application Security (AppSec) and Vulnerability Management programs, emphasizing the cultivation of a DevSecOps culture and integrating them into the Secure Software Development Life Cycle (S-SDLC) processes. Also, providing assistance with penetration testing across both our internal and external surfaces, including actively monitoring digital assets.
+- Conducting research on Application Security (AppSec) and Vulnerability Management programs, emphasizing the cultivation of a DevSecOps culture and integrating them into the Secure Software Development Life Cycle (S-SDLC) processes.
+- Also, providing assistance with penetration testing across both our internal and external surfaces, including actively monitoring digital assets.
 
 `2022-2023`
 **Cyber Security Instructor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*

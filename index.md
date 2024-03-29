@@ -56,7 +56,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2022-present`
 **Offensive & Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
 
-- Building a scalable application security program with a DevSecOps initiative that helps organizations deliver more high-quality secure products/applications.
+- Building a scalable application security program with a DevSecOps initiative that helps BIFZA deliver more high-quality secure products/applications.
 - Nurturing agile secure SDLC practices to ensure resilient and secure software development.
 - Conducting thorough web application security assessments and penetration testing that assist organizations in mitigating risks before they are exploited by attackers.
 - Leading vulnerability management efforts, including research, identification, triaging, and developing mitigation strategies that help organizations reduce their overall risks.

@@ -56,16 +56,12 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2022-present`
 **Offensive & Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
 
-- Develop and execute comprehensive cybersecurity strategies and program plans to enhance overall security posture.
-- Lead Application Security (AppSec) / Product Security (ProdSec) engineering efforts, ensuring the robust security of applications and products.
-- Drive the implementation of secure SDLC practices within agile environments, promoting security throughout development cycles.
-- Spearhead the creation and review of secure architectures and initiated threat modeling exercises.
-- Implemented and championed DevSecOps initiatives, fostering a culture of security-conscious development and deployment.
-- Pioneered a security culture initiative, increasing awareness, and expediting the resolution of vulnerabilities.
-- Played a vital role in the CSIRT, effectively mitigating incidents, and ensuring a rapid response to security events.
-- Implemented a risk-based approach, enhancing overall risk management practices and ensuring compliance with industry standards.
-- Execute Vulnerability Assessment & Penetration Testing (VAPT) activities.
-- Developed and implemented security automation to enhance security assessment.
+- Building a scalable application security program with a DevSecOps initiative that helps organizations deliver more high-quality secure products/applications.
+- Nurturing agile secure SDLC practices to ensure resilient and secure software development.
+- Conducting thorough web application security assessments and penetration testing that assist organizations in mitigating risks before they are exploited by attackers.
+- Leading vulnerability management efforts, including research, identification, triaging, and developing mitigation strategies that help organizations reduce their overall risks.
+- Providing comprehensive cybersecurity training and mentoring, fostering a culture of awareness and vigilance.
+- Spearheading cybersecurity strategic planning, policy development, and effective management.
 - Effectively manage tasks while providing mentorship to junior security team members.
 - Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
 

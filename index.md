@@ -77,7 +77,7 @@ Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty 
 `2013-present`
 **Cyber Security Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
 
-Provide private online courses about IT security and practical ethical hacking on various platform like edu.hackerotodidak.com and superprof.co.id. Keynote speaker about IT security at the national event, IT community, local police department, State Polytechnic of Batam, Vocational High Schools, and more.
+Offering private online courses on IT security and practical ethical hacking through various platforms such as edu.hackerotodidak.com and superprof.co.id. Deliver keynote speeches on IT security at national events, IT community gatherings, local police departments, colleges, high schools, and more.
 
 `2023`
 **Cyber Security Instructor**, *polibatam.ac.id*

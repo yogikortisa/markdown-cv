@@ -67,7 +67,8 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2021-present`
 **Founder, Security Consultant**, *hackerotodidak.com*
 
-- Cybersecurity consultancy and education services. Providing vulnerability assessment, web application penetration testing, application security program building, DevSecOps implementation, cybersecurity education, training, and mentoring. 
+- Cybersecurity consultancy and education services.
+- Providing vulnerability assessment, web application penetration testing, application security program building, DevSecOps implementation, cybersecurity education, training, and mentoring. 
 
 `2021-present`
 **Independent Security Researcher**, *various VDP & BBP*

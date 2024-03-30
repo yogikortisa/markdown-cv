@@ -67,37 +67,37 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2021-present`
 **Founder, Security Consultant**, *hackerotodidak.com*
 
-Cybersecurity consultancy and education services. Providing vulnerability assessment, web application penetration testing, application security program building, DevSecOps implementation, cybersecurity education, training, and mentoring.
+- Cybersecurity consultancy and education services. Providing vulnerability assessment, web application penetration testing, application security program building, DevSecOps implementation, cybersecurity education, training, and mentoring. 
 
 `2021-present`
 **Independent Security Researcher**, *various VDP & BBP*
 
-Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty Program (BBP), and platforms such as HackeOne and YesWeHack. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, government sites, and more.
+- Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty Program (BBP), and platforms such as HackeOne and YesWeHack. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, government sites, and more.
 
 `2013-present`
 **Cyber Security Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
 
-Offering private online courses on IT security and practical ethical hacking through various platforms such as edu.hackerotodidak.com and superprof.co.id. Deliver keynote speeches on IT security at national events, IT community gatherings, local police departments, colleges, high schools, and more.
+- Offering private online courses on IT security and practical ethical hacking through various platforms such as edu.hackerotodidak.com and superprof.co.id. Deliver keynote speeches on IT security at national events, IT community gatherings, local police departments, colleges, high schools, and more.
 
 `2023`
 **Cyber Security Instructor**, *polibatam.ac.id*
 
-Delivered two days of Penetration Testing Internal Boot Camp: Web Pentesting Fundamental. Cyber Security Engineering study program, State Polytechnic of Batam.
+- Delivered two days of Penetration Testing Internal Boot Camp: Web Pentesting Fundamental. Cyber Security Engineering study program, State Polytechnic of Batam.
 
 `2022-2023`
 **Cyber Security Instructor & Mentor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*
 
-Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance.
+- Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance.
 
 `2022`
 **Cyber Security Mentor**, *adinusa.id*
 
-Cyber Security Mentor at Cybersecurity Training Sub Batch 1 2022 - Mastercard Academy 2.0.
+- Cyber Security Mentor at Cybersecurity Training Sub Batch 1 2022 - Mastercard Academy 2.0.
 
 `2022`
 **Cyber Security Trainer**, *rainusa.co.id*
 
-Delivered two days of full Cybersecurity Training with high-quality materials for several corporate IT staff.
+- Delivered two days of full Cybersecurity Training with high-quality materials for several corporate IT staff.
 
 `2019-2022`
 **Application Engineer, Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*

@@ -65,7 +65,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
 
 `2021-present`
-**Founder, Pentester, Researcher**, *hackerotodidak.com*
+**Founder, Security Consultant**, *hackerotodidak.com*
 
 Cybersecurity consultancy and education services. Providing vulnerability assessment, web application penetration testing, application security program building, DevSecOps implementation, cybersecurity education, training, and mentoring.
 

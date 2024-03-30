@@ -110,7 +110,9 @@ Delivered two days of full Cybersecurity Training with high-quality materials fo
 `2017-2019`
 **Full-stack Developer & Lead Software Engineer**, *PT Indonesia Villajaya*
 
-Lead and manage a team of programmers, coach and guide the development of the team members, share knowledge, motivate and inspire others to generate new ideas, estimate time to accomplish programming tasks and commit to meeting all objectives. Build customized Enterprise Resource Planning (ERP) system, Point of Sales (POS), recruitment online, and other web-based application systems, system integration, API, etc. Monitoring and maintaining for existing applications in entire branch offices as well as observe for any potential improvements.
+- Lead and manage a team of programmers, coach and guide the development of the team members, share knowledge, motivate and inspire others to generate new ideas, estimate time to accomplish programming tasks and commit to meeting all objectives.
+- Build customized Enterprise Resource Planning (ERP) system, Point of Sales (POS), recruitment online, and other web-based application systems, system integration, API, etc.
+- Monitoring and maintaining for existing applications in entire branch offices as well as observe for any potential improvements.
 
 ## Publications
 

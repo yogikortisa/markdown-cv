@@ -27,7 +27,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 ## Education & Certification
 
 `2024`
-<a href="https://certs.ine.com/ab60416f-3662-4c8a-bfd4-caf017ed427d"><i class="fas fa-certificate"></i> **Web application Penetration Tester eXtreme (eWPTX)**</a>, *INE.com*
+<a href="https://certs.ine.com/ab60416f-3662-4c8a-bfd4-caf017ed427d"><i class="fas fa-certificate"></i> **Web application Penetration Tester eXtreme (eWPTX)**</a>, *INE*
 
 `2023`
 <a href="https://www.credly.com/badges/7a41936a-f7c7-409c-a8ed-cb0222895c76"><i class="fas fa-certificate"></i> **CompTIA PenTest+**</a>, *CompTIA*

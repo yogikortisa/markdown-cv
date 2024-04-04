@@ -144,7 +144,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://www.instagram.com/p/CfQkQwgL-D3/">**Free Open Source Software (FOSS) Day 2022: "Open Source For All Generations"**</a>, *Panelist - Batam Linux User Group (BLUG)*
 
 `2021`
-<a href="https://www.instagram.com/p/CWiOud1PB_U/">**Focus Group Discussion: "Responsible Disclosure Policy dan Web Security Assessment Sebagai Solusi Keamanan Aplikasi Web"**</a>, *Keynote Speaker - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
+<a href="https://www.instagram.com/p/CWiOud1PB_U/">**"Responsible Disclosure Policy dan Web Security Assessment Sebagai Solusi Keamanan Aplikasi Web"**</a>, *Keynote Speaker - Kick-Off dan Pembentukan Advisory Board Polibatam Cyber Team*
 
 `2021`
 <a href="https://www.instagram.com/p/CVj7OoCPoDx">**Benchmarking: Pengelolaan Security Operation Center (SOC) untuk kegiatan Pengembangan Laboratorium SOC-RKS**</a>, *Moderator - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*

@@ -26,6 +26,9 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 
 ## Education & Certification
 
+`2024`
+<a href="https://certs.ine.com/ab60416f-3662-4c8a-bfd4-caf017ed427d"><i class="fas fa-certificate"></i> **Web application Penetration Tester eXtreme (eWPTX)**</a>, *INE.com*
+
 `2023`
 <a href="https://www.credly.com/badges/7a41936a-f7c7-409c-a8ed-cb0222895c76"><i class="fas fa-certificate"></i> **CompTIA PenTest+**</a>, *CompTIA*
 
@@ -39,7 +42,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=s9kZuS7yOE41g5ZAOjDW1qUO0SYS5GWO8FHkpNyNARg="><i class="fas fa-certificate"></i> **Certified Ethical Hacker (CEH) Practical**</a>, *(expired) EC-Council*
 
 `2020`
-<a href="https://verified.elearnsecurity.com/certificates/df3c292e-0a9d-4045-a9b9-d6638be041a1"><i class="fas fa-certificate"></i> **eLearnSecurity Junior Penetration Tester (eJPT)**</a>, *eLearnSecurity*
+<a href="https://certs.ine.com/b57052c4-414c-418b-a034-9b7ccfee4c75"><i class="fas fa-certificate"></i> **Junior Penetration Tester (eJPT)**</a>, *eLearnSecurity*
 
 `2020`
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=aPUcRLCpq6lZ+ln02klVdD38moYqKFtd3bu4V0bV1gg="><i class="fas fa-certificate"></i> **Certified Secure Computer User (CSCU)**</a>, *EC-Council*

@@ -144,19 +144,19 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://www.instagram.com/p/CfQkQwgL-D3/">**Free Open Source Software (FOSS) Day 2022: "Open Source For All Generations"**</a>, *Panelist - Batam Linux User Group (BLUG)*
 
 `2021`
-<a href="https://www.instagram.com/p/CWiOud1PB_U/">**"Responsible Disclosure Policy dan Web Security Assessment Sebagai Solusi Keamanan Aplikasi Web"**</a>, *Keynote Speaker - Kick-Off dan Pembentukan Advisory Board Polibatam Cyber Team*
+<a href="https://www.instagram.com/p/CWiOud1PB_U/">**Responsible Disclosure Policy dan Web Security Assessment Sebagai Solusi Keamanan Aplikasi Web**</a>, *Keynote Speaker - Kick-Off dan Pembentukan Advisory Board Polibatam Cyber Team*
 
 `2021`
 <a href="https://www.instagram.com/p/CVj7OoCPoDx">**Benchmarking: Pengelolaan Security Operation Center (SOC) untuk kegiatan Pengembangan Laboratorium SOC-RKS**</a>, *Moderator - Program Studi Rekayasa Keamanan Siber Politeknik Negeri Batam*
 
 `2021`
-<a href="https://bit.ly/TechoTalk">**Keamanan Digital Online Shop dan Maraknya Penjualan Data Pribadi**</a>, *Panelist - TechoTalk Cyber Charity*
+<a href="https://www.instagram.com/p/CR_bGzqFXxv/">**Keamanan Digital Online Shop dan Maraknya Penjualan Data Pribadi**</a>, *Panelist - TechoTalk Cyber Charity*
 
 `2021`
 <a href="https://youtu.be/uoWv2IO7eD0">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp (edu.hackerotodidak.com)*
 
 `2021`
-<a href="https://instagram.com/batamitsecurity/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juaga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
+<a href="https://www.instagram.com/p/COAonvMMOLq/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juaga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
 
 `2020`
 <a href="https://youtu.be/IOyZloS3buU">**Turn Back Cybercrime Through Open-Source Intelligence (OSINT)**</a>, *Keynote Speaker - Akademi Berbagi Nasional (akademiberbagi.org)*
@@ -165,28 +165,28 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://bit.ly/3pXVyDj/">**Hack Yourself Before Others Do! Introduction to Offensive Cybersecurity**</a>, *Keynote Speaker - Rainusa & Surabaya Hacker Link Event*
 
 `2020`
-<a href="https://www.instagram.com/p/B_eOSGBFlfa/?utm_source=ig_web_copy_link">**Belajar Linux? Apa Ada Untungnya?"**</a>, *Keynote Speaker - Belajar & Berbagi (B&B) Batam Linux User Group (BLUG)*
+<a href="https://www.instagram.com/p/B_eOSGBFlfa/">**Belajar Linux? Apa Ada Untungnya?"**</a>, *Keynote Speaker - Belajar & Berbagi (B&B) Batam Linux User Group (BLUG)*
 
 `2018`
 <a href="https://kepri.polri.go.id/">**Cybersecurity Awareness Pada Pelaksanaan Pemilu 2019**</a>, *Keynote Speaker - Local Police Department (POLDA Batam)*
 
 `2018`
-<a href="https://www.instagram.com/p/BpWzkX0hrZM/?utm_source=ig_web_copy_link">**Free Open Source Software (FOSS) Day 2018: "Community Meet Up"**</a>, *Moderator - Batam Linux User Group (BLUG)*
+<a href="https://www.instagram.com/p/BpWzkX0hrZM/">**Free Open Source Software (FOSS) Day 2018: "Community Meet Up"**</a>, *Moderator - Batam Linux User Group (BLUG)*
 
 `2015-2016`
-<a href="https://www.instagram.com/p/9tZepAlkkE/?utm_source=ig_web_copy_link">**Practical Ethical Hacking with Kali Linux**</a>, *Trainer - Open Source Competition (OSC) CTF Category*
+<a href="https://www.instagram.com/p/9tZepAlkkE/">**Practical Ethical Hacking with Kali Linux**</a>, *Trainer - Open Source Competition (OSC) CTF Category*
 
 `2015`
-<a href="https://www.instagram.com/p/9l_-lhlkrv/?utm_source=ig_web_copy_link">**Web Development Fundamental Workshop**</a>, *Trainer - Batam Linux User Group (BLUG)*
+<a href="https://www.instagram.com/p/9l_-lhlkrv/">**Web Development Fundamental Workshop**</a>, *Trainer - Batam Linux User Group (BLUG)*
 
 `2015`
 <a href="http://www.lpm-paradigma.org/2015/03/demo-linux-dan-foss-day.html">**GNU/Linux & Open Source Fundamental**</a>, *Keynote Speaker - Free Open Source Software (FOSS) Day*
 
 `2015`
-<a href="http://batamlinux.blogspot.com/2014/11/blug-goes-to-school-2014-edisi-smk-real.html">**Networking with GNU/Linux**</a>, *Mentor - SMK Real Informatika*
+<a href="http://batamlinux.blogspot.com/2014/11/blug-goes-to-school-2014-edisi-smk-real.html">**Networking with GNU/Linux**</a>, *Trainer/Mentor - SMK Real Informatika*
 
 `2013-2017`
-<a href="https://www.instagram.com/p/BE3tci9lkn7/?utm_source=ig_web_copy_link">**Network Security Training**</a>, *Trainer - Batam Linux User Group (BLUG)*
+<a href="https://www.instagram.com/p/BE3tci9lkn7/">**Network Security Training**</a>, *Trainer - Batam Linux User Group (BLUG)*
 
 ## Projects
 

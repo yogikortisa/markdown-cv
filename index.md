@@ -213,7 +213,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://chat.whatsapp.com/EiKuW3mUn2JGHSGpooLpYU">**Batam Developer Programmer (DevPro)**</a>, *Initiator - Local group of Batam developer & programmer for sharing & learning together.*
 
 `2015-2016`
-<a href="https://www.instagram.com/p/9fESiNlkn3/">**CTF Category - Open Source Competition (OSC)**</a>, *Lead Judge - Build the CTF infrastructure, rules, point system, and judging all teams.*
+<a href="https://www.instagram.com/p/9fESiNlkn3/">**CTF Category - Open Source Competition (OSC)**</a>, *Founder & Lead Judge - Build the CTF infrastructure, rules, point system, and judging all teams.*
 
 `2013-2015`
 <a href="https://batamlinux.or.id/">**Batam Linux User Group (BLUG)**</a>, *Leader - The largest GNU/Linux user community in Batam with regular sharing & learning activites.*

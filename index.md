@@ -68,9 +68,9 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
 
 `2021-present`
-**Founder, Security Consultant**, *hackerotodidak.com*
+**Founder, Security Researcher & Consultant**, *hackerotodidak.com*
 
-- Cybersecurity consultancy and education services. Providing vulnerability assessment, web application penetration testing, application security program building, DevSecOps implementation, cybersecurity education, training, and mentoring. 
+- Cybersecurity consultancy and education services. Providing vulnerability assessment, web application penetration testing, application security program building, DevSecOps implementation, cybersecurity education, training, and mentoring.
 
 `2021-present`
 **Independent Security Researcher**, *various VDP & BBP*
@@ -78,9 +78,9 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Security research on various Vulnerability Disclosure Program (VDP), Bug Bounty Program (BBP), and platforms such as HackeOne and YesWeHack. I found security vulnerabilities recognized by Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, government sites, and more.
 
 `2013-present`
-**Cyber Security Educator**, *edu.hackerotodidak.com, superprof.co.id, private*
+**Cyber Security Educator**, *various edutech platform, event, and private 1-on-1*
 
-- Offering private online courses on IT security and practical ethical hacking through various platforms such as edu.hackerotodidak.com and superprof.co.id. Deliver keynote speeches on IT security at national events, IT community gatherings, local police departments, colleges, high schools, and more.
+- Offering private online courses on IT security and practical ethical hacking through various platforms such as superprof.co.id. Deliver keynote speeches on IT security at national events, IT community gatherings, local police departments, colleges, high schools, and more.
 
 `2023`
 **Cyber Security Instructor**, *polibatam.ac.id*
@@ -135,7 +135,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 ## Talks
 
 `2022`
-<a href="https://www.instagram.com/p/ClIbR_PrF4m/">**Berkarier Sebagai Cyber Security**</a>, *Keynote Speaker - Webinar Series (SekolahHacker.com)*
+<a href="https://www.instagram.com/p/ClIbR_PrF4m/">**Berkarier Sebagai Cyber Security**</a>, *Keynote Speaker - Sekolah Hacker*
 
 `2022`
 <a href="https://bpbatam.go.id/peresmian-tim-tanggap-insiden-siber-csirt-bp-batam/">**Cyber Incident Management**</a>, *Moderator - Peresmian Tim Tanggap Insiden Siber CSIRT – BP Batam*
@@ -153,7 +153,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://www.instagram.com/p/CR_bGzqFXxv/">**Keamanan Digital Online Shop dan Maraknya Penjualan Data Pribadi**</a>, *Panelist - TechoTalk Cyber Charity*
 
 `2021`
-<a href="https://youtu.be/uoWv2IO7eD0">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp (edu.hackerotodidak.com)*
+<a href="https://youtu.be/uoWv2IO7eD0">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp*
 
 `2021`
 <a href="https://www.instagram.com/p/COAonvMMOLq/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juaga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
@@ -162,7 +162,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://youtu.be/IOyZloS3buU">**Turn Back Cybercrime Through Open-Source Intelligence (OSINT)**</a>, *Keynote Speaker - Akademi Berbagi Nasional (akademiberbagi.org)*
 
 `2020`
-<a href="https://bit.ly/3pXVyDj/">**Hack Yourself Before Others Do! Introduction to Offensive Cybersecurity**</a>, *Keynote Speaker - Rainusa & Surabaya Hacker Link Event*
+<a href="https://www.instagram.com/p/CImEjZHFFfY/">**Hack Yourself Before Others Do! Introduction to Offensive Cybersecurity**</a>, *Keynote Speaker - Rainusa & Surabaya Hacker Link*
 
 `2020`
 <a href="https://www.instagram.com/p/B_eOSGBFlfa/">**Belajar Linux? Apa Ada Untungnya?"**</a>, *Keynote Speaker - Belajar & Berbagi (B&B) Batam Linux User Group (BLUG)*

@@ -161,7 +161,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://youtu.be/uoWv2IO7eD0">**Bootcamp #1: Cybersecurity Fundamental**</a>, *Mentor - Hacker Otodidak Bootcamp*
 
 `2021`
-<a href="https://www.instagram.com/p/COAonvMMOLq/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juaga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
+<a href="https://www.instagram.com/p/COAonvMMOLq/">**The Myth of Social Engineering: "Phising Teknik Kacangan, Data Saya Aman Dibagikan, Siapa Juga yang Mau Hack?"**</a>, *Panelist - Batam IT Security (BITS)*
 
 `2020`
 <a href="https://youtu.be/IOyZloS3buU">**Turn Back Cybercrime Through Open-Source Intelligence (OSINT)**</a>, *Keynote Speaker - Akademi Berbagi Nasional (akademiberbagi.org)*

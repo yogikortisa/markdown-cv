@@ -82,6 +82,11 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 
 - Offering private online courses on IT security and practical ethical hacking through various platforms such as superprof.co.id. Deliver keynote speeches on IT security at national events, IT community gatherings, local police departments, colleges, high schools, and more.
 
+`2024`
+**Cybersecurity Mentor**, *skilvul.com*
+
+- IBM SkillsBuild for AI Cybersecurity Bootcamp Program.
+
 `2023`
 **Cyber Security Instructor**, *polibatam.ac.id*
 

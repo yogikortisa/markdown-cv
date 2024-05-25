@@ -211,11 +211,11 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 ## Volunteerism
 
+`2024-present`
+<a href="https://adplist.org/mentors/yogi-kortisa/">**Mentor at ADPList.org**</a>, *Mentor - ADPList: Learn from the world's best mentors for free.*
+
 `2019-present`
 <a href="https://chat.whatsapp.com/C8auq6ThhtCFk37iW3ZBRU">**Batam IT Security (BITS)**</a>, *Founder & Community Builder - The largest cybersecurity community in Batam for sharing and learning, career/seminar/training info, hack & coffee meetup.*
-
-`2021`
-<a href="https://chat.whatsapp.com/EiKuW3mUn2JGHSGpooLpYU">**Batam Developer Programmer (DevPro)**</a>, *Initiator - Local group of Batam developer & programmer for sharing & learning together.*
 
 `2015-2016`
 <a href="https://www.instagram.com/p/9fESiNlkn3/">**CTF Category - Open Source Competition (OSC)**</a>, *Founder & Lead Judge - Build the CTF infrastructure, rules, point system, and judging all teams.*

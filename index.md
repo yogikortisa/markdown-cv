@@ -95,7 +95,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 `2022-2023`
 **Cyber Security Instructor & Mentor**, *Sekolah Hacker (sekolahdigitalcilsy.com/hacker)*
 
-- Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance.
+- Online Bootcamp and Mentoring Program face to face (live) to educate you to become a Cyber Security Engineer Red team in 16 weeks with guaranteed job acceptance. I achieved the distinction of Best Instructor in batches 13 and 17.
 
 `2022`
 **Cyber Security Mentor**, *adinusa.id*

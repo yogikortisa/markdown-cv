@@ -27,13 +27,16 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 ## Education & Certification
 
 `2024`
+<a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXfrfxKNBaTQtsO4LEkC5wpoeGtt0IuPm6PC+NcaschK8stSVX7B8y1WMWQ9HOAP1ezIqpKnYRCKA26hcHTCc2XA="><i class="fas fa-certificate"></i> **Certified Network Security Practitioner (CNSP)**</a>, *The SecOps Group*
+
+`2024`
 <a href="https://certs.ine.com/ab60416f-3662-4c8a-bfd4-caf017ed427d"><i class="fas fa-certificate"></i> **Web application Penetration Tester eXtreme (eWPTX)**</a>, *INE*
 
 `2023`
 <a href="https://www.credly.com/badges/7a41936a-f7c7-409c-a8ed-cb0222895c76"><i class="fas fa-certificate"></i> **CompTIA PenTest+**</a>, *CompTIA*
 
 `2022`
-<a href="https://secops.group/product/certified-application-security-practitioner/"><i class="fas fa-certificate"></i> **Certified AppSec Practitioner (CAP)**</a>, *The SecOps Group*
+<a href="https://www.linkedin.com/posts/yogikortisa_certified-appsec-practitioner-cap-activity-7014173470565556224-0vWK"><i class="fas fa-certificate"></i> **Certified AppSec Practitioner (CAP)**</a>, *The SecOps Group*
 
 `2022`
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=c+HhMJEVMMws6pVjDythjV4BTpDQIiNc9v8OqzXXiwk="><i class="fas fa-certificate"></i> **Certified Network Defender (CND)**</a>, *EC-Council*

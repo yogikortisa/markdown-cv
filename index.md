@@ -214,29 +214,3 @@ How I accidentally found my PII leaked on the internet caused by security issues
 <a href="https://scutogadingserpong.com/"> **Vulnerability Assessment on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment on a web application. 
 
 <a href="https://github.com/yogikortisa/instagram-scraper-2020"><i class="fab fa-github"></i> **instagram-scraper-2020**</a> - Grab feeds of any instagram account with this instagram scraper 2020. You can customize and upgrade this potential script to show the video urls, tags, and more.
-
-## Volunteerism
-
-`2024-present`
-<a href="https://adplist.org/mentors/yogi-kortisa/">**ADPList.org**</a>, *Mentor - ADPList: Learn from the world's best mentors for free.*
-
-`2019-present`
-<a href="https://chat.whatsapp.com/C8auq6ThhtCFk37iW3ZBRU">**Batam IT Security (BITS)**</a>, *Founder & Community Builder - The largest cybersecurity community in Batam for sharing and learning, career/seminar/training info, hack & coffee meetup.*
-
-`2015-2016`
-<a href="https://www.instagram.com/p/9fESiNlkn3/">**CTF Category - Open Source Competition (OSC)**</a>, *Founder & Lead Judge - Build the CTF infrastructure, rules, point system, and judging all teams.*
-
-`2013-2015`
-<a href="https://batamlinux.or.id/">**Batam Linux User Group (BLUG)**</a>, *Leader - The largest GNU/Linux user community in Batam with regular sharing & learning activites.*
-
-`2015`
-<a href="https://batamlinux.or.id/">**Street Workout Batam**</a>, *Founder / Coach / Trainer - I founded Street Workout Batam in 2015 and become the largest calisthenics community in town now. I trained members to reach their goals in Calisthenics.*
-
-`2015`
-<a href="https://batamlinux.or.id/">**Orientation Steering Committee - State Polytechnic of Batam**</a>, *Chairman of The Board - Lead all steering committe to build and training new executive committee before welcoming new college students.*
-
-`2014`
-<a href="https://batamlinux.or.id/">**Orientation Executive Committee - State Polytechnic of Batam**</a>, *Outdoor Coordinator - Lead outdoor team to mentoring new college students in the form of outdoor activities.*
-
-`2010`
-<a href="https://batamcrew.forumotion.com/">**Batam Crew**</a>, *Founder & Community Builder - Batam underground forum discuss about hacking, phreaking, and more.*

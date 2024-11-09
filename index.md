@@ -3,7 +3,7 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Penetration Tester & Application Security Engineer
+Offensive & Application Security Engineer
 
 <div id="webaddress">
   <a href="https://kortisa.com/"><i class="fas fa-home"></i> kortisa.com</a> 
@@ -126,6 +126,8 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 - Monitoring and maintaining for existing applications in entire branch offices as well as observe for any potential improvements.
 
 ## Publications
+
+<a href="https://www.udemy.com/course/not-your-typical-cybersecurity-awareness-training/"><i class="fas fa-book"></i> **“Not Your Typical” Cybersecurity Awareness Training**</a>, *Udemy Course*
 
 <a href="https://repository.polibatam.ac.id/items/f9adb30f-3a88-4da3-b978-b4ea5a347892/full"><i class="fas fa-book"></i> **SQL Injection Detection Using Code Review & Penetration Testing**</a>, *Academic Journal*
 

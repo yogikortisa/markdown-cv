@@ -211,8 +211,6 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 <a href="https://bpbatam.go.id"> **Application Security (AppSec) Program at BIFZA**</a> - Build AppSec security program and integrate into software development process.
 
-<a href="https://app.jala.tech/"> **Penetration Testing on JALA Application**</a> - Conduct Penetration Testing on a web application. 
+<a href="https://app.jala.tech/"> **Penetration Testing on JALA System**</a> - Conduct Penetration Testing on a web application. 
 
-<a href="https://scutogadingserpong.com/"> **Vulnerability Assessment on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment on a web application. 
-
-<a href="https://github.com/yogikortisa/instagram-scraper-2020"><i class="fab fa-github"></i> **instagram-scraper-2020**</a> - Grab feeds of any instagram account with this instagram scraper 2020. You can customize and upgrade this potential script to show the video urls, tags, and more.
+<a href="https://scutogadingserpong.com/"> **Vulnerability Assessment on Scuto Gading Serpong**</a> - Conduct Vulnerability Assessment on a web application.

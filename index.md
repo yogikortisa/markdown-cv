@@ -19,7 +19,7 @@ Offensive & Application Security Engineer
 
 I'm a Cybersecurity Professional focusing primarily on application/product security engineering and penetration testing. I have been in hacking and security since 2009, and I have experience working for a company and the government professionally for the past six years. I have talked about various topics on information security as a keynote speaker and educator since 2013 and provide practical cybersecurity online courses, training, seminars, and workshops. I have been skilled in PHP programming and web development since 2011, database management, and GNU/Linux system administration.  
 <br>
-Currently, I'm building application security (AppSec) programs with the DevSecOps initiative as part of the secure software development processes and aiding with vulnerability management across all of our internal and external surfaces, including active monitoring of digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations, such as Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, government sites, and more.
+Currently, I'm building application security (AppSec) programs with the DevSecOps initiative at Batam Indonesia Free Zone Authority (BIFZA) as part of the secure software development processes and aiding with vulnerability management across all of our internal and external surfaces, including active monitoring of digital assets. In my free time, I have helped identify and exploit security vulnerabilities in various global companies and organizations, such as Cisco, Salesforce, Gojek, PUPG, ABB, MTN Group, government sites, and more.
 
 ## Core Competencies
 Web Application Penetration Testing, Web Application Security, Application Security Engineering, Vulnerability Assessment & Management, GNU/Linux System Administration, Cybersecurity Training/Mentoring, and Community Building.
@@ -57,6 +57,18 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 <a href="https://www.polibatam.ac.id/d4-multimedia-dan-jaringan/"><i class="fas fa-user-graduate"></i> **Bachelor of Applied Science (BASc), Multimedia Networking, GPA: 3.64**</a>, *State Polytechnic of Batam*
 
 ## Experiences
+
+`2022-present`
+**Offensive & Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
+
+- Building a scalable application security program with a DevSecOps initiative that helps BIFZA deliver more high-quality secure products/applications.
+- Nurturing agile secure SDLC practices to ensure resilient and secure software development.
+- Conducting thorough Vulnerability Assessment & Penetration Testing (VAPT) that assist BIFZA in mitigating risks before they are exploited by attackers.
+- Leading vulnerability management efforts, including research, identification, triaging, and developing mitigation strategies that help BIFZA reduce their overall risks.
+- Providing comprehensive cybersecurity training and mentoring, fostering a culture of awareness and vigilance.
+- Spearheading cybersecurity strategic planning, policy development, and effective management.
+- Effectively manage tasks while providing mentorship to junior security team members.
+- Lead research and development efforts in security and hacking, staying at the forefront of emerging threats and technologies.
 
 `2021-present`
 **Founder, Security Researcher & Consultant**, *hackerotodidak.com*
@@ -97,6 +109,14 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 **Cyber Security Trainer**, *rainusa.co.id*
 
 - Delivered two days of full Cybersecurity Training with high-quality materials for several corporate IT staff.
+
+`2019-2022`
+**Application Engineer, Security Champion**, *BIFZA - Batam Indonesia Free Zone Authority*
+
+- Observe, synthesize, theorize, explore, design, develop, test, implement, improve, scale-up application at BIFZA.
+- Building a Security Champions program to bridge security gaps between development, operations, and security departments.
+- Conducting research on Application Security (AppSec) and Vulnerability Management programs.
+- Providing assistance with penetration testing across both our internal and external surfaces, including actively monitoring digital assets.
 
 `2017-2019`
 **Full-stack Developer & Lead Software Engineer**, *PT Indonesia Villajaya*
@@ -189,6 +209,8 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 <a href="https://belajar.linux.or.id/2016/04/24/foss-day-2016-digelar-meriah-oleh-batam-linux-user-group-blug/"> **Free Open Source Software (FOSS) Day**</a> - The first and largest annual celebration, exhibition, public education effort with the aim of increasing awareness of Free & Open Source Software (FOSS) and its virtues, and encouraging its use held in Batam every year. 
 
-<a href="https://app.jala.tech/"> **Penetration Testing on JALA System**</a> - Conduct penetration testing on a web application. 
+<a href="https://bpbatam.go.id"> **Application Security (AppSec) Program at BIFZA**</a> - Build AppSec security program and integrate into software development process.
+
+<a href="https://app.jala.tech/"> **Penetration Testing on JALA System**</a> - Conduct penetration testing on a web application.
 
 <a href="https://scutogadingserpong.com/"> **Vulnerability Assessment on Scuto Gading Serpong**</a> - Conduct vulnerability assessment on a web application.

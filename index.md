@@ -3,7 +3,7 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Offensive & Application Security Engineer
+Offensive & Application Security Engineer/Analyst
 
 <div id="webaddress">
   <a href="https://kortisa.com/"><i class="fas fa-home"></i> kortisa.com</a> 
@@ -59,7 +59,7 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 ## Experiences
 
 `2022-present`
-**Offensive & Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
+**Offensive & Application Security Engineer/Analyst**, *BIFZA - Batam Indonesia Free Zone Authority*
 
 - Building a scalable application security program with a DevSecOps initiative that helps BIFZA deliver more high-quality secure products/applications.
 - Nurturing agile secure SDLC practices to ensure resilient and secure software development.

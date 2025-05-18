@@ -58,8 +58,13 @@ Web Application Penetration Testing, Web Application Security, Application Secur
 
 ## Experiences
 
+`2025-present`
+**Cyber Security Mentor**, *dibimbing.id*
+
+- The dibimbing.id Cyber Security Bootcamp is an online training program designed to equip you with comprehensive skills in cybersecurity, covering topics from Networking Fundamentals, Cryptography, Penetration Testing, to Defensive Security.
+
 `2022-present`
-**Offensive & Application Security Engineer/Analyst**, *BIFZA - Batam Indonesia Free Zone Authority*
+**IT Security Analyst, Application Security Engineer**, *BIFZA - Batam Indonesia Free Zone Authority*
 
 - Building a scalable application security program with a DevSecOps initiative that helps BIFZA deliver more high-quality secure products/applications.
 - Nurturing agile secure SDLC practices to ensure resilient and secure software development.
@@ -143,6 +148,9 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 
 ## Talks
+
+`2025`
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7329362572632121344/">**Cybersecurity Through Community: Responsible Disclosure, Ethical Hacking, OWASP, and Open Source**</a>, *Panelist - Cybersecurity Panel Discussion: Zero Trust by Batam IT Security (BITS), BatamDev, and BSSN*
 
 `2024`
 <a href="https://www.instagram.com/jogjacybersec/p/C96GNtJymQK/">**Responsible Disclosure: Let's be Friends with Hackers & Hack Ethically!**</a>, *Keynote Speaker - JogjaCyberSecurity Zero to Hero #3*

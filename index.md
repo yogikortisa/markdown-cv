@@ -3,7 +3,7 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Offensive & Application Security Professional
+Senior Cybersecurity Expert & Strategic Advisor
 
 <div id="webaddress">
   <a href="https://kortisa.com/"><i class="fas fa-home"></i> kortisa.com</a> 

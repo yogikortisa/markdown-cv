@@ -211,7 +211,7 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 <a href="https://hackerotodidak.com/"><i class="fas fa-graduation-cap"></i> **HackerOtodidak.com**</a> - Cybersecurity consulting & cyber education learning platform to become an Ethical Hacker by autodidact way.
 
-<a href="https://github.com/yogikortisa/Product-Security-Engineering/"><i class="fab fa-linkedin"></i> **Product-Security-Engineering**</a> - A public GitHub repository that curates a collection of practical resources such as templates and guidelines for building effective and scalable product security programs.
+<a href="https://github.com/yogikortisa/Product-Security-Engineering/"><i class="fab fa-github"></i> **Product-Security-Engineering**</a> - A public GitHub repository (https://github.com/yogikortisa/Product-Security-Engineering) that curates a collection of practical resources such as templates and guidelines for building effective and scalable product security programs.
 
 <a href="#">**Security Assessment on Mandiri Sekuritas**</a> - Conduct security assessments on various Mandiri Sekuritas platforms, including web, mobile, and desktop banking applications.
 

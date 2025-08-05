@@ -10,8 +10,6 @@ Senior Cybersecurity Expert & Strategic Advisor
   <a href="https://hackerotodidak.com/"><i class="fas fa-user-tie"></i> hackerotodidak.com</a>
   <a href="mailto:yogikortisa@gmail.com"><i class="fas fa-envelope"></i> yogikortisa@gmail.com</a> 
   <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> +6289673199362</a>
-  <a href="https://www.linkedin.com/in/yogikortisa/"><i class="fab fa-linkedin"></i> Yogi Kortisa</a>
-  <a href="https://youtube.com/@hackerotodidak/"><i class="fab fa-youtube"></i> @hackerotodidak</a>
   
 </div>
 

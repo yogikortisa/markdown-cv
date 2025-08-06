@@ -3,14 +3,16 @@ layout: cv
 title: Yogi Kortisa's CV
 ---
 # Yogi Kortisa
-Senior Cybersecurity Expert & Strategic Advisor
+Offensive & Application Security Professional
 
 <div id="webaddress">
   <a href="https://kortisa.com/"><i class="fas fa-home"></i> kortisa.com</a> 
-  <a href="https://hackerotodidak.com/"><i class="fas fa-user-tie"></i> hackerotodidak.com</a>
   <a href="mailto:yogikortisa@gmail.com"><i class="fas fa-envelope"></i> yogikortisa@gmail.com</a> 
-  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> +6289673199362</a>
-  
+  <a href="https://api.whatsapp.com/send?phone=6289523815871&lang=id"><i class="fab fa-whatsapp"></i> +6289523815871</a> -
+  <a href="https://github.com/yogikortisa/"><i class="fab fa-github"></i></a>
+  <a href="https://www.linkedin.com/in/yogikortisa/"><i class="fab fa-linkedin"></i></a>
+  <a href="https://youtube.com/@hackerotodidak/"><i class="fab fa-youtube"></i></a>
+  <a href="https://hackerotodidak.com/"><i class="fas fa-user-tie"></i></a>
 </div>
 
 ## Summary
@@ -211,9 +213,9 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 <a href="https://hackerotodidak.com/"><i class="fas fa-graduation-cap"></i> **HackerOtodidak.com**</a> - Cybersecurity consulting & cyber education learning platform to become an Ethical Hacker by autodidact way.
 
-<a href="https://github.com/yogikortisa/Product-Security-Engineering/"><i class="fab fa-github"></i> **Product-Security-Engineering**</a> - A public GitHub repository (https://github.com/yogikortisa/Product-Security-Engineering) that curates a collection of practical resources such as templates and guidelines for building effective and scalable product security programs.
+<a href="https://github.com/yogikortisa/Product-Security-Engineering/"><i class="fab fa-github"></i> **Product-Security-Engineering**</a> - A public GitHub repository that curates a collection of practical resources such as templates and guidelines for building effective and scalable product security programs.
 
-<a href="#">**Security Assessment on Mandiri Sekuritas**</a> - Conduct security assessments on various Mandiri Sekuritas platforms, including web, mobile, and desktop banking applications.
+<a href="https://www.mandirisekuritas.co.id/">**Security Assessment on Mandiri Sekuritas**</a> - Conduct security assessments on various Mandiri Sekuritas platforms, including web, mobile, and desktop banking applications.
 
 <a href="https://www.instagram.com/p/BM_WlDVBSZG/?utm_source=ig_web_copy_link">**Batam Open Source & CTF Competition (OSC)**</a> - The first and largest Open Source & CTF competition held in Batam every year. 
 
@@ -221,6 +223,6 @@ How I accidentally found my PII leaked on the internet caused by security issues
 
 <a href="https://bpbatam.go.id"> **Application Security (AppSec) Program at BIFZA**</a> - Build AppSec security program and integrate into software development process.
 
-<a href="https://app.jala.tech/"> **Penetration Testing on app.jala.tech System**</a> - Conduct penetration testing on a web application.
+<a href="https://app.jala.tech/"> **Penetration Testing on JALA System**</a> - Conduct penetration testing on a web application.
 
 <a href="https://scutogadingserpong.com/"> **Vulnerability Assessment on Scuto Gading Serpong**</a> - Conduct vulnerability assessment on a web application.
